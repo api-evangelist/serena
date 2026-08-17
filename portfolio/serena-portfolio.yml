@@ -1,0 +1,2357 @@
+generated: '2026-08-17'
+method: searched
+source: https://www.serena.vc/our-portfolio
+type: Portfolio
+name: Serena Portfolio
+description: Every company published on Serena's public portfolio page, harvested from the portfolio index
+  and each company profile page, annotated with its match against the API Evangelist network.
+summary:
+  portfolio_total: 113
+  in_network: 32
+  api_providers: 10
+  missing: 81
+  stubs_created: 0
+companies:
+- name: 8Sec
+  url: https://www.8sec.games/
+  description: Game makers, game changers
+  sector: consumer
+  sectors:
+  - consumer
+  - gaming
+  status: active
+  source: https://www.serena.vc/portfolio-profile/8-sec/
+  founded: '2015'
+  geography: France
+  long_description: Founded by two video game enthusiasts, Louis Giraud and Louis Croquet, 8SEC has been
+    working in the mobile gaming space since 2015. The company went from laying the foundations of their
+    processes to releasing their first hit in 2020, Trivia.io reaching over 35M Downloads. The game, with
+    a whole new take on the trivia genre, sat in the Top 10 of the App Store in the U.S for several weeks
+    and keeps attracting new players. In 2021, they pioneered Hybrid Casual with two back-to-back hits,
+    Idle Army and Hero Squad, reaching more than 50M Downloads in total. 8SEC is already writing the next
+    chapter of mobile gaming.
+  slug: 8sec
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Accenta
+  url: https://www.accenta.ai/
+  description: Smart energy storage for buildings
+  sector: ai-data
+  sectors:
+  - ai-data
+  - climate-tech
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/accenta/
+  founded: '2017'
+  geography: France
+  long_description: ACCENTA is a deep tech company that developed a solution combining artificial intelligence
+    and inter-seasonal energy storage to reduce building energy consumption and CO2 emissions. This solution
+    uses renewable energies, produced in large quantities in the summer, to heat the buildings in the
+    winter. Using, for example, solar heat or waste heat from the cooling systems, ACCENTA's solution
+    allows the building industry to reach the most ambitious energy and environmental standards. The ACCENTA.Design
+    and ACCENTA.AI systems optimize the efficiency and cost of inter-seasonal heat storage, making the
+    solution highly competitive with other low-carbon heating and cooling technologies.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: accenta
+- name: Acheel
+  url: https://www.acheel.com/
+  description: The first French generalist and digital insurance company
+  sector: fintech-insurtech
+  sectors:
+  - fintech-insurtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/acheel/
+  founded: '2019'
+  geography: France
+  long_description: Acheel aims to make insurance easy for users thanks to new technologies, and to provide
+    very competitive and tailor-made offers to customers. The service is available on desktop, tablet,
+    or mobile and delivers various products such as Home Insurance, Health insurance, or Pet Insurance.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: acheel
+- name: Acinq
+  url: https://acinq.co/
+  description: One of the leading companies of Bitcoin scalability
+  sector: blockchain
+  sectors:
+  - blockchain
+  - fintech-insurtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/acinq/
+  founded: '2014'
+  geography: Worldwide
+  long_description: 'ACINQ is one of the leading companies building the Lightning Network, a scalable
+    instant payment network for the Bitcoin blockchain. The solution aims at tackling one of the most
+    pressing challenges for Bitcoin : its ability to scale to VISA-level transactions throughout.'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: acinq
+- name: Alkemics
+  url: https://www.alkemics.com/
+  description: Connects brands and retailers through smarter product data for today's omni-channel shoppers
+  sector: ai-data
+  sectors:
+  - ai-data
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/alkemics/
+  founded: '2011'
+  geography: France
+  exit_note: Acquired by Salsify
+  long_description: 'Alkemics is the supplier collaboration platform for omnichannel retailers, enabling
+    them to manage business relationships with suppliers to discover, list, and market all products from
+    one single and secure platform. Today''s retailers face challenges to meet evolving consumer needs
+    like differentiating their assortment, achieving operational excellence to speed up time-to-market,
+    providing their customers with an omnichannel and personalized shopping experience. To face these
+    challenges, Alkemics enables buyers to discover new suppliers and new products, and also to accelerate
+    their go-to-market while reducing data quality errors. Alkemics also supports teams in the development
+    of sustainable relationships with suppliers to enrich shopper experience. Alkemics started with the
+    Grocery sector, and thanks to its flexible data model, is opening new verticals: Out-of-Home, DIY,
+    Health, Travel'
+  slug: alkemics
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Allo-Media
+  url: https://www.allo-media.net/
+  description: An AI solution that analyzes telephone conversations between brands and consumers
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: exited
+  source: https://www.serena.vc/portfolio-profile/allomedia/
+  founded: '2011'
+  geography: France
+  exit_note: Exited by MBO
+  long_description: Because sales and customer loyalty are about great conversations, Allo-Media's owned
+    AI Vocal Cookie™ technology transforms customer calls into actionable marketing data insights. This
+    Vocal Cookie™ system ensures a unique bridge between marketing and customer care, boosting sales and
+    customer loyalty. The “Vocal Cookie”​ technology structures and classifies customer call conversations
+    into valuable marketing and customer care data insights to understand and extract customer profiles,
+    needs, or complaints, enabling re-engagement as well as the measurement of best & worst practices
+    of online to offline customer experiences. The service captures the call content thanks to real-time
+    in-depth analysis of the conversation, through signal analysis, vocal recognition, and semantics.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: allo-media
+- name: AMI Labs
+  url: https://amilabs.xyz/
+  description: Advanced Machine Intelligence (AMI) is enabling the next AI revolution - built on foundational
+    world models
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/ami-labs/
+  founded: '2026'
+  geography: Paris, New York, Montreal, and Singapore
+  long_description: AMI develops world models that learn abstract representations of reality, similar
+    to the mental models humans use to reason and guide action. These systems predict how situations evolve,
+    and how actions lead to consequences, so that they can plan sequences of actions under real-world
+    constraints, with an emphasis on safety and reliability. The co-founders bring together world-leading
+    scientific expertise and proven company-building experience. AMI is chaired by Yann LeCun, Turing
+    Award laureate and pioneer of modern AI and led by CEO Alexandre LeBrun, serial AI entrepreneur, Chief
+    Science Officer Saining Xie, a leading researcher in visual representation learning, Chief Research
+    & Innovation Officer Pascale Fung, a pioneer in human-centered AI, VP of World Models Michael Rabbat,
+    a leading researcher in world models, and COO Laurent Solly, who brings deep experience in global
+    technology o
+  slug: ami-labs
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: AramisAuto
+  url: https://www.aramisauto.com/
+  description: AramisAuto is a leading online car dealership in Europe. The company was acquired by Peugeot
+    in 2016, and is, to this day, one of the largest French B2C exits of all times.
+  sector: consumer
+  sectors:
+  - consumer
+  - marketplace
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/aramisauto/
+  founded: '2001'
+  geography: France & Spain
+  exit_note: Acquired by PSA
+  long_description: 'AramisAuto was founded in 2001 by Nicolas Chartier and Guillaume Paoli, with the
+    ambition of becoming the number one choice for consumers wanting to buy a car. Automotive retail today
+    is not tailored to the needs of consumers, but rather to those of manufacturers. Given that buying
+    a car is a household''s #2 investment and that the internet quickly became the first source of buyer
+    information, a change was in order! Today, AramisAuto is the French leader in online car distribution.
+    This one-stop-shop is revolutionizing the way people buy used cars. AramisAuto''s proprietary digital
+    platform and car refurbishment factory provide clients with the guarantees they expect. Already #1
+    in France, they have expanded into Spain and Belgium thanks to their partnership with the PSA Group.'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aramisauto
+- name: Arlettie
+  url: https://www.arlettie.com/
+  description: Private showroom experts
+  sector: consumer
+  sectors:
+  - consumer
+  status: exited
+  source: https://www.serena.vc/portfolio-profile/arlettie/
+  founded: '2004'
+  geography: France & UK
+  exit_note: Exit by MBO
+  long_description: Arlettie organizes the most exclusive sample sales for luxury and fashion brands in
+    Paris and London.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: arlettie
+- name: Bestmile
+  url: https://bestmile.com/
+  description: The first cloud platform for the intelligent operation and optimization of autonomous mobility
+    services
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/bestmile/
+  founded: '2014'
+  geography: France, Switzerland & UK
+  exit_note: Acquired by ZF
+  long_description: Bestmile empowers mobility providers to deploy, manage, and optimize autonomous and
+    conventional vehicle fleets. Bestmile's cloud platform enables the intelligent operation and optimization
+    of autonomous mobility services, managing fixed-route, and on-demand services, regardless of the vehicle
+    brand or type. Bestmile's on-demand autonomous mobility services platform is being used daily in city
+    centers on four continents, both in both pedestrian areas and on open roads. Incorporated in 2014,
+    Bestmile has global offices in San Francisco (USA) and Lausanne (Switzerland). For more information,
+    visit bestmile.com.
+  slug: bestmile
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Bitstack
+  url: https://www.bitstack-app.com/
+  description: Save in Bitcoin, effortlessly.
+  sector: blockchain
+  sectors:
+  - blockchain
+  - consumer
+  - fintech-insurtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/bitstack/
+  founded: '2021'
+  geography: France
+  long_description: Bitstack's mission is to create a more open financial system. Bitstack has evolved
+    from a simple product that invests your spare change in bitcoin to a Bitcoin neobank that lets you
+    buy, sell, earn and spend bitcoin. Bitstack uses the Bitcoin protocol – the first open, global, uncensored
+    currency network that allows users to send and receive money anywhere, instantly, at almost no cost,
+    and operates without any central entity that can devalue its currency.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bitstack
+- name: Bonitasoft
+  url: https://www.bonitasoft.com/
+  description: The open source Business Process Management-based application development platform
+  sector: saas
+  sectors:
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/bonitasoft/
+  founded: '2009'
+  geography: Europe, US & Latin America
+  exit_note: Acquired by Fortino Capital
+  long_description: Bonitasoft helps innovative companies worldwide reinvent, automate, and gain deep
+    insights into their business processes. Bonitasoft's Bonita Digital Process Automation platform enables
+    collaboration between professional and citizen developers to rapidly deliver automation projects and
+    applications using best-of-breed DevOps methodologies and tools. With an ecosystem of more than 150,000
+    members and customers in 75+ countries, Bonitasoft provides the most widely used open-source and low-code
+    platform for business process automation.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bonitasoft
+- name: Boxy (ex-Storelift)
+  url: https://www.getboxy.co/
+  description: Boxy's mission is to deliver uncompromising convenience through every experience.
+  sector: consumer
+  sectors:
+  - consumer
+  status: active
+  source: https://www.serena.vc/portfolio-profile/boxy/
+  founded: '2020'
+  geography: France
+  long_description: Our innovative format means we can multiply indefinitely, cost-effectively, and fit
+    into any environment. All we need is a small piece of land and a power source. We work hard behind
+    the scenes using state-of-the-art technology to ensure our customers' experience is as seamless and
+    enjoyable as possible.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: getboxy
+  x-suggested-slug: getboxy
+- name: Brigad
+  url: https://brigad.co/
+  description: Enables self-employed professionals and businesses in Hospitality and Healthcare to connect
+    for short term missions.
+  sector: marketplace
+  sectors:
+  - marketplace
+  status: active
+  source: https://www.serena.vc/portfolio-profile/brigad/
+  founded: '2016'
+  geography: France & UK
+  long_description: 'Brigad provides companies with an independent, on-demand workforce. Its digital expertise
+    allows a matching technology to staff a vetted and available workforce in record time . It allows
+    its users to embrace flexibility, saving time and money, by getting rid of HR and organizational management.
+    Uber Technologies Inc. is one of Brigad''s early investors. Brigad is also supported by 50Partners,
+    France''s #1 startup accelerator.'
+  slug: brigad
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: CarbonFarm
+  url: https://www.carbonfarm.tech
+  description: Satellite-based MRV solution
+  sector: climate-tech
+  sectors:
+  - climate-tech
+  - nature-tech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/carbonfarm/
+  founded: '2022'
+  geography: France, Vietnam, India, Ghana, Spain, Portugal, Italy
+  long_description: CarbonFarm is an earth observation company making Regen Ag profitable for farmers
+    through Satellite-based MRV. CarbonFarm monitors practices and emissions with AI and satellite images,
+    handles carbon-credits certification and brokers credits. They are starting with Rice, representing
+    50% of crop-related emissions, which can be halved at no cost by adopting proven sustainable irrigation
+    techniques. Their satellite-verified carbon credits unlock additional revenues for sustainable rice-farmers,
+    while providing a new way for corporates to reach their net-zero goals.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: carbonfarm
+- name: Cheerz
+  url: http://www.cheerz.com/
+  description: Makes printing memorable moments from a mobile phone easy
+  sector: consumer
+  sectors:
+  - consumer
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/cheerz/
+  founded: '2012'
+  geography: France Spain & Switzerland Belgium UK
+  exit_note: Acquired by Cewe
+  long_description: Cheerz is a printing company dedicated to all the little moments of life that we capture
+    every day on our mobiles! Because today people love to share, Cheerz created tools that give access
+    to photos from Facebook, Instagram, Flickr, Dropbox… It's a website, it's a mobile app, it's an iPad
+    app and it's from Paris.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cheerz
+- name: Clevergy
+  url: https://clever.gy/fr/
+  description: Smarter energy for a sustainable future
+  sector: climate-tech
+  sectors:
+  - climate-tech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/clevergy/
+  founded: '2022'
+  geography: Spain
+  long_description: Clevergy is a Spanish technology startup founded in 2022. Its SaaS technology offers
+    advanced solutions for energy suppliers, helping them centralize their operations and optimize customer
+    relationships. Clevergy's developments allow end users to control their energy consumption and production
+    and receive savings tips, while energy companies gain the ability to monitor their customers' consumption,
+    support energy efficiency and unlock new opportunities for products and services.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clevergy
+- name: Cloud Ex Machina
+  url: https://www.cloudexmachina.io/
+  description: Reshaping cloud financial management
+  sector: infrastructure
+  sectors:
+  - infrastructure
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/cloud-ex-machina/
+  founded: '2024'
+  geography: United States
+  long_description: Cloud ex Machina specializes in cloud infrastructure optimization, focusing on enhancing
+    performance and cost-efficiency across platforms like AWS, Azure, GCP, and container environments.
+    Their platform automates asset analysis and categorization, providing comprehensive visibility into
+    cloud consumption and architecture. It offers features such as root cause analysis, anomaly detection,
+    and prioritization based on return on investment (ROI). Seamless integration with developer workflows
+    ensures actionable insights are delivered where they are most needed. By streamlining cloud management,
+    Cloud ex Machina enables organizations to improve efficiency, reduce costs, and support sustainable
+    cloud practices.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cloudexmachina
+  x-suggested-slug: cloudexmachina
+- name: Coachclub
+  url: http://www.coachclub.com/hp/
+  description: The first online service to provide tailor-made sport and fitness training videos
+  sector: consumer
+  sectors:
+  - consumer
+  status: exited
+  source: https://www.serena.vc/portfolio-profile/coachclub/
+  founded: '2010'
+  geography: France
+  exit_note: Exit by MBO
+  long_description: CoachClub is the first video coaching service dedicated to gym and nutrition. According
+    to user information (goals, physical abilities, health, availability, etc.), the service can set up
+    a personalized program, accessible from everywhere via the internet or TV.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coachclub
+- name: Cometh
+  url: https://www.cometh.io/
+  description: Blockchain games with benefits.
+  sector: blockchain
+  sectors:
+  - blockchain
+  status: active
+  source: https://www.serena.vc/portfolio-profile/cometh/
+  founded: '2020'
+  geography: France
+  long_description: Cometh creates blockchain games running end-to-end on blockchain smart contracts that
+    easily integrate with DeFi protocols. Cometh games showcase how blockchain bolsters the player experience
+    through more resilient game designs and innovative narratives. In addition, Cometh offers blockchain
+    white label solutions and integration expertise to game studios and brands alike to deploy their blockchain
+    projects.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cometh
+- name: Coorpacademy
+  url: https://www.coorpacademy.com/
+  description: Corporate online training with an innovative, user-centric and enjoyable digital learning
+    experience
+  sector: saas
+  sectors:
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/coorpacademy/
+  founded: '2013'
+  geography: France & Switzerland
+  exit_note: Acquired by Go1
+  long_description: Coorpacademy is a European EdTech startup founded in 2013 and specialized in innovative,
+    scalable corporate digital learning solutions. Thanks to its digital Learning Experience Platform,
+    Coorpacademy supports company transformation and efficiency by engaging employees, partners, and clients
+    in upskilling on any topic central to their competitiveness, thus reaching top quartile engagement
+    rates. To unleash the desire to learn, Coorpacademy has developed a proprietary SaaS platform delivering
+    latest generation instructional design backed by Ecole Polytechnique Fédérale de Lausanne Innovation
+    labs, making corporate learning more fun, flexible and collaborative, truly centered on the end-user,
+    the learner. Coorpacademy is part of the EdTech France association.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coorpacademy
+- name: CybelAngel
+  url: https://www.cybelangel.com/
+  description: CybelAngel explores the deep web to protect major firms from costly data leaks.
+  sector: ai-data
+  sectors:
+  - ai-data
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/cybelangel/
+  founded: '2013'
+  geography: Europe & US (NYC)
+  long_description: CybelAngel is a leading digital risk management platform providing enterprises with
+    actionable threat intelligence that enables effective remediation and improved cybersecurity. By leveraging
+    artificial intelligence and proven machine learning capabilities to monitor, detect, and manage digital
+    risk across all layers of the Internet, CybelAngel helps organizations protect their intellectual
+    property, brand, and reputation. Every day, CybelAngel detects data leaks that others don't.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cybelangel
+- name: Darewise
+  url: https://www.darewise.com/
+  description: Interactive and socially-connected experiences that go beyond entertainment
+  sector: blockchain
+  sectors:
+  - blockchain
+  - consumer
+  - gaming
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/darewise/
+  founded: '2018'
+  geography: France
+  exit_note: Acquired by AnimocaBrands
+  long_description: Darewise Entertainment is a game development studio in Paris, France, trailblazing
+    a new genre in video games designed to unite players in a positive, shared narrative framework. Darewise
+    brings together the best talent from all creative industries, from AAA and indie games to e-commerce
+    and film, to create games that are about the richness of existence, the thrill of meeting new players,
+    and the fulfillment of making new connections.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: darewise
+- name: Dataiku
+  url: http://www.dataiku.com/
+  description: Leader in Enterprise AI, Dataiku reached unicorn status in 2019, four years after our investment
+    in their seed round.
+  sector: ai-data
+  sectors:
+  - ai-data
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/dataiku/
+  founded: '2013'
+  geography: US (NYC) & Europe
+  long_description: Dataiku is the centralized data platform that moves businesses along their data journey
+    from analytics at scale to enterprise AI. By providing a common ground for data experts and explorers
+    with a repository of best practices, with shortcuts to machine learning and AI deployment/management,
+    and with a centralized, controlled environment, Dataiku is the catalyst for data-powered companies.
+    Customers like Unilever, GE, and Comcast use Dataiku to ensure they are moving quickly and growing
+    exponentially along with the amount of data they're collecting. By removing roadblocks, Dataiku ensures
+    more opportunities for business-impacting models and creative solutions, allowing teams to work faster
+    and smarter.
+  slug: dataiku
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: DeepIP
+  url: https://www.deepip.ai/
+  description: NYC and Paris-based DeepIP provides a trusted AI Assistant to augment IP attorneys to deliver
+    better quality patents while saving up to 50% of drafting time —transforming operational efficiency
+    into revenue growth for law firms. DeepIP emerged from Kili Technology, a leader in enterprise AI
+    infrastr
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/deepip/
+  founded: '2023'
+  geography: US, France
+  long_description: 'NYC and Paris-based DeepIP provides a trusted AI Assistant to augment IP attorneys
+    to deliver better quality patents while saving up to 50% of drafting time —transforming operational
+    efficiency into revenue growth for law firms. DeepIP emerged from Kili Technology, a leader in enterprise
+    AI infrastructure, where founders François-Xavier L. and Edouard D. honed their craft, building data-labeling
+    systems trusted by Fortune 500 giants. Kili still thrives in its core business, but as generative
+    AI surged, the founders saw an untapped opportunity: reengineering Kili''s battle-tested technology—data
+    pipelines, labeling platforms, LLM tooling—to tackle IP''s unique complexities. This led to an 18-month
+    strategic carve-out, where they shaped tools purpose-built for IP workflows , launching DeepIP as
+    a standalone venture.'
+  slug: deepip
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Descartes Underwriting
+  url: https://descartesunderwriting.com/
+  description: Through technology, Descartes Underwriting empowers businesses to build resilience in the
+    face of climate change
+  sector: climate-tech
+  sectors:
+  - climate-tech
+  - fintech-insurtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/descartes-underwriting/
+  founded: '2019'
+  geography: France
+  long_description: Descartes is a global leader in corporate insurance against climate, cyber and emerging
+    risks. It offers a new generation of parametric insurance, using a unique tech and data-driven approach
+    to develop a deep understanding of risks and better protect corporate & public sector clients. Founded
+    in 2019 by seasoned insurers and intrapreneurs, Descartes Underwriting is structured as an Underwriting
+    Agent, underwriting risks on behalf of tier-one (re)insurers and Insurance-Linked Securities funds.
+    The team works with brokers and offers parametric insurance and innovative insurance policies to protect
+    companies and governments against natural catastrophes and emerging risks. With a global footprint
+    and strong US presence, Descartes serves 400+ corporates from a variety of industries, operating through
+    17 offices across North & Latin America, Europe and Asia-Pacific. Descartes is driven by the
+  slug: descartes-underwriting
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: DESKi
+  url: http://www.heartfocus.ai
+  description: No heart can wait™ - Creating a smarter path to heart exams for all
+  sector: healthtech
+  sectors:
+  - healthtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/deski/
+  founded: '2016'
+  geography: France, Bordeaux, Nouvelle-Aquitaine
+  long_description: DESKi develops AI-powered solutions to simplify and democratize heart exams, helping
+    healthcare professionals detect heart disease more effectively and accessibly. Their flagship product,
+    HeartFocus , is an AI-based software launched in 2023 that enables any medical professional—regardless
+    of specialization—to perform accurate cardiac ultrasounds, anywhere and at any time. This empowers
+    healthcare providers to accelerate diagnosis, reduce dependency on specialists, and improve access
+    to care in underserved regions. By rethinking the heart exam process, DESKi aims to combat heart disease—the
+    world's leading cause of death—through smart, scalable tools that make precision cardiology more accessible
+    to all.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: deski
+  x-suggested-slug: deski
+- name: Dotfile
+  url: https://www.dotfile.com/
+  description: Building a trust infrastructure for the internet economy
+  sector: saas
+  sectors:
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/dotfile/
+  founded: '2021'
+  geography: France
+  long_description: Dotfile is building the modern compliance operating system for fintech, helping them
+    verify their business customers anywhere in the world in less than 10 seconds. In a fragmented KYC
+    market, Dotfile orchestrates dozens of identity verification methods, business registries, AML screening
+    and fraud detections APIs, in a single platform. Regulated businesses use Dotfile to automate onboarding
+    decisions, boost conversion and lower costs. With Dotfile, they can scale their compliance operations
+    or expand to new markets with different regulatory frameworks faster.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dotfile
+- name: Edgee
+  url: https://www.edgee.cloud/
+  description: Edge computing, one of the fundamental foundations of the next phase of the Internet
+  sector: ai-data
+  sectors:
+  - ai-data
+  - infrastructure
+  status: active
+  source: https://www.serena.vc/portfolio-profile/edgee/
+  founded: '2024'
+  geography: United States
+  long_description: 'Edgee was born out of a vision to solve one of the most critical challenges in modern
+    technology: how to process vast amounts of data efficiently, without sacrificing speed or privacy.
+    Co-founders Sacha Morard, with his background as CTO/CIO of Le Monde Group, and Gilles Raymond, a
+    seasoned entrepreneur, saw the potential of edge computing to revolutionize the way data is collected
+    and processed. With a passion for open-source innovation, they set out to create a platform that empowers
+    developers to build high-performance, privacy-compliant applications. Edgee isn''t just about technology;
+    it''s about creating a collaborative ecosystem that pushes the boundaries of what''s possible at the
+    edge.'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: edgee
+- name: Educ-up
+  url: https://educ-up.fr/
+  description: Promoting Education for All
+  sector: edtech
+  sectors:
+  - edtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/educ-up/
+  founded: '2016'
+  geography: France
+  long_description: Educ-up is a social and solidarity-driven startup that works towards ending social
+    and educational inequalities by unlocking the potential of children. Since its inception in 2016,
+    Educ-up has been committed to fostering an inclusive educational vision based on the individual needs
+    of each child. Inspired by the principles of Maria Montessori, the startup offers innovative concepts
+    to enable all children, including those from lower-income backgrounds or with disabilities, to learn
+    and make positive contributions to society. Indeed, Educ-up's approach goes beyond the home environment
+    with Domissori, an educational childcare service that facilitates educational continuity and supports
+    both the child and their parents. Accessible to all families, including those with moderate or precarious
+    incomes, its mission is to promote curiosity, autonomy, and confidence in children. Its second project
+  in_network: false
+  is_api_provider: false
+  suggested_slug: educ-up
+- name: Electra
+  url: https://www.go-electra.com/
+  description: Electra reinvents electric car charging with a network of ultra-fast stations and a simple
+    user experience
+  sector: climate-tech
+  sectors:
+  - climate-tech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/electra/
+  founded: '2020'
+  geography: Europe
+  long_description: 'As the transition to electric cars accelerates, 68% of users are not satisfied with
+    the charging stations open to the public. To make charging as easy as filling up with gasoline, to
+    save time and provide comfort to motorists, the French company Electra is deploying a connected, reliable,
+    and ultra-fast (15 to 30 minutes maximum) charging network in all the major cities of France. Offering
+    this simple and digitized charging experience will enable a faster switch to electric cars. Electra
+    was founded by three experienced entrepreneurs with a passion for electric mobility: Aurélien de Meaux
+    – CEO, Augustin Derville – CDO, and Julien Belliato – COO. Their objective is to set up 1,000 stations
+    by 2030.'
+  in_network: false
+  is_api_provider: false
+  x-match: none
+  x-suggested-slug: go-electra
+  suggested_slug: go-electra
+- name: Elium
+  url: https://www.elium.com/
+  description: AI-Powered knowledge management platform for all company information
+  sector: saas
+  sectors:
+  - saas
+  status: exited
+  source: https://www.serena.vc/portfolio-profile/elium/
+  founded: '2008'
+  geography: France & Belgium
+  exit_note: Exited by MBO
+  long_description: Elium is the collaborative platform that boosts team efficiency through AI-powered
+    Knowledge Management. The tool enables the deployment of critical knowledge and best practices, ensuring
+    they are actively used and become the essential reference point for everyone. Addressing information
+    sprawl, Elium transforms an organization's knowledge base into a true “AI Brain” or knowledge engine.
+    Employees instantly find the answers they need, positioning Elium as the central driver of their collective
+    intelligence, not just another forgotten folder gathering digital dust.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: elium
+- name: Emmi AI
+  url: https://www.emmi.ai/
+  description: Inspired by Physics, Driven by AI
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/emmi-ai/
+  founded: '2024'
+  geography: Austria
+  exit_note: Acquired by Mistral
+  long_description: Emmi AI is building real-time simulation solutions designed to meet the demands of
+    industries such as aerospace, automotive, energy, and semiconductors. By leveraging deep learning,
+    the company enables a shift from traditional numerics-based approaches to AI-enabled simulation, delivering
+    speed, scalability, and precision in solving complex engineering problems.
+  slug: emmi-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Evaneos
+  url: http://www.evaneos.com/
+  description: Europe's first online marketplace that allows travelers to book their vacations directly
+    with local travel agents, Evaneos raised over $108M in three rounds.
+  sector: consumer
+  sectors:
+  - consumer
+  - marketplace
+  status: active
+  source: https://www.serena.vc/portfolio-profile/evaneos/
+  founded: '2009'
+  geography: France, Spain, Italy, Germany, UK, & the Nordics countries
+  long_description: 'Evaneos is the leading quality-oriented web platform that directly connects travelers
+    to local travel agencies. Its local partners organize tailor-made tours offering unique and authentic
+    experiences. Since 2009, Evaneos has helped more than 500,000 people explore more than 160 destinations,
+    and its satisfaction rate is 96%. Evaneos is currently active in 9 source markets: France, Spain,
+    Italy, Germany, Switzerland, Netherlands, UK, USA, and Canada.'
+  slug: evaneos
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Finalcad
+  url: http://www.finalcad.com/
+  description: Creates quality analytics solutions for buildings and facilities management
+  sector: saas
+  sectors:
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/finalcad/
+  founded: '2007'
+  geography: France
+  exit_note: Acquired
+  long_description: Finalcad is a collaboration platform designed to optimize field experience for workers
+    in industries such as construction, infrastructure, and energy. Developed 10 years ago by an expert
+    team with deep industry knowledge, Finalcad is headquartered in France and used by customers across
+    the globe. In sectors such as construction, infrastructure, and energy, the Finalcad platform enables
+    companies to carry out existing processes more efficiently and safely, guiding them through their
+    digital transformation journeys by digitizing their workflows and making continuous communication
+    possible. Finalcad captures data from across the whole site, facility, or asset, arming all stakeholders
+    – from the fieldworker to the sub-contractor, main contractor and client – with the data they need
+    to drive accurate decision making. The platform tackles the industry-wide issues of low margins and
+    poor profit
+  in_network: false
+  is_api_provider: false
+  suggested_slug: finalcad
+- name: Fipto
+  url: https://fipto.com
+  description: Crypto and Fiat Currencies, Unified
+  sector: blockchain
+  sectors:
+  - blockchain
+  - fintech-insurtech
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/fitpo/
+  founded: '2022'
+  geography: France, Belgium
+  long_description: 'Fipto is a global B2B payments and treasury management solution that enables businesses
+    to send and convert any currency by harnessing the full value of blockchain: speed, cost efficiency,
+    and transparency. Combining the best practices of traditional payment with the capabilities of blockchain
+    technology, Fipto empowers its users with a compliant-proof platform for fast, safe, and 24/7 cross-border
+    payments. Fipto is a registered Digital Asset Service Provider (DASP) by the French Financial Markets
+    Authority (AMF). Learn more about Fipto''s comprehensive range of solutions at'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fipto
+- name: Formality
+  url: https://www.formality.com/
+  description: Managing your contracts becomes a simple formality!
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/formality/
+  founded: '2023'
+  geography: France
+  long_description: Formality is an intelligent platform dedicated to Contract Management. It simplifies
+    and automates the contract lifecycle using natural language processing algorithms. The company's ambition
+    is to become a benchmark player in Contract Management on a global scale.
+  slug: formality
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Full Speed Automation
+  url: https://www.vitesseautomation.com/
+  description: Intelligent Factory Automation
+  sector: unknown
+  sectors: []
+  status: active
+  source: https://www.serena.vc/portfolio-profile/full-speed-automation/
+  founded: '2020'
+  geography: United States
+  long_description: Full Speed Automation enables production agility with intelligent automation software.
+    The company was founded by Luc Leroy , who drove the Core Automation Engineering team at Tesla to
+    solve the Model 3 “automation hell”, helping make production profitable. He developed the team and
+    set up the new controls and software architectures for Gigafactory Shanghai, battery cells and Model
+    Y production lines. VITESSE (=V=), the company's first product, is the world's first no-code automation
+    controls platform. It enables fast bring-up and rapid iterations , using the best engineering practices.
+    Full Speed Automation is located in Los Gatos, Silicon Valley
+  slug: vitesse
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Goodvest
+  url: https://www.goodvest.fr/
+  description: Environmentally responsible investments
+  sector: climate-tech
+  sectors:
+  - climate-tech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/goodvest/
+  founded: '2020'
+  geography: France
+  long_description: 'Founded in 2020 by Joseph Choueifaty, Antoine Bénéteau and Aurore Pinon-Jacques,
+    Goodvest is the first savings platform aligned with the climate goals of the Paris Agreement. The
+    fintech offers responsible investment solutions (life insurance, retirement savings plans, savings
+    accounts, etc.) as well as private wealth management, enabling individuals to grow their savings while
+    exclusively financing companies committed to the ecological transition: low-carbon energy, sustainable
+    transport, ecosystem regeneration, and more. With one of the most advanced investment methodologies—since
+    2024 also integrating the impact of companies on biodiversity (a first in France)—and a life insurance
+    plan recognized by Reclaim Finance as the least exposed to fossil fuels, Goodvest ensures both transparency
+    and positive impact. Since its creation, its solutions have helped avoid more than 100,000 tons of '
+  in_network: false
+  is_api_provider: false
+  suggested_slug: goodvest
+- name: H
+  url: https://hcompany.ai/
+  description: AI action models for task automation & decision-making
+  sector: unknown
+  sectors: []
+  status: active
+  source: https://www.serena.vc/portfolio-profile/h/
+  founded: '2024'
+  geography: France
+  long_description: H company develops and commercially deploys foundational and action models with capabilities
+    targeted at business and consumer verticals. These capabilities include agentic and vertical architectures,
+    as well as differentiated models capable of reasoning, planning, and collaborating
+  slug: h-company
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Habiteo
+  url: https://www.habiteo.com/
+  description: Brings the digital age to new build real estate with 3D & VR sales and marketing solutions
+  sector: saas
+  sectors:
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/habiteo/
+  founded: '2013'
+  geography: Europe
+  exit_note: Acquired by Bien'ici
+  long_description: Habiteo builds digital solutions to optimize the marketing of new build real estate.
+    Its ambition is to bring real estate development into a new dimension. Thanks to its range of 3D solutions
+    , buyers can project themselves into their future property, by carrying out a 3D visit of the apartment,
+    the residence, or even the district where the real estate program will be located; and by personalizing
+    the accommodation using a materials configurator, which indicates the price according to the options
+    chosen. Real estate developers can digitize their entire customer path and facilitate the relationship
+    with buyers to reduce the risk of post-reservation cancellation and thus accelerate their sales cycle.
+    Within French Proptech, the Habiteo team works hand-in-hand with the major players in real estate
+    and public administration, to jointly invent the “Smart City” of tomorrow.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: habiteo
+- name: Helios
+  url: https://www.helios.do/
+  description: The sustainable neobank committed to limiting global warming
+  sector: climate-tech
+  sectors:
+  - climate-tech
+  - fintech-insurtech
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/helios/
+  founded: '2020'
+  geography: France
+  exit_note: Acquired by Younited
+  long_description: Helios is a new sustainable and transparent banking model that directs its user's
+    money towards environmental investment projects. Helios was created between Paris and Nantes by Maeva
+    Courtois and Julia Ménayas in march 2020. Backed by Solarisbank's banking license, the start-up offers
+    a payment card, all daily banking services and a dedicated advisor, all accessible from a mobile application.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: helios
+- name: Heuritech
+  url: http://heuritech.com/
+  description: The first AI-based visual recognition tool for the fashion world.
+  sector: ai-data
+  sectors:
+  - ai-data
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/heuritech/
+  founded: '2013'
+  geography: France
+  long_description: 'Heuritech is a cutting-edge technology company that provides fashion and lifestyle
+    brands with the vision they need to stay ahead of today''s dynamic market and trends. Using advanced
+    artificial intelligence (AI) to translate real-world images shared on social media into meaningful
+    insights , Heuritech empowers brands to forecast demands and trends more accurately, produce more
+    sustainably, and achieve unprecedented competitive advantages. The company was founded in 2013 by
+    two PhDs in machine learning with one goal in mind: to bridge the gap between artificial intelligence
+    and business, two worlds often set apart. As from November 2024, Heuritech has officially joined the
+    Luxurynsight Group . This strategic operation marks a major stepstone to provide a more complete AI
+    offer and fulfill its ambition to become the global data intelligence provider for decision makers
+    in the luxury, fashi'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: heuritech
+- name: Hull
+  url: https://www.hull.io/
+  description: One source of truth, synchronized everywhere
+  sector: ai-data
+  sectors:
+  - ai-data
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/hull/
+  founded: '2013'
+  geography: France & US
+  exit_note: Acquired by MessageBird
+  long_description: 'Hull was founded in 2013 by Romain Dardour, Stephane Bellity, and Stefan Koenig after
+    they realized that brands lose the human touch with consumers when they go online. After all, what
+    makes your local shops so great is that their owners know you personally and are able to understand
+    and even predict your needs, which makes you feel special and unique. Hull, a Customer Data Platform,
+    was created with the aim to restore that lost relationship. It serves that goal by aggregating all
+    of the customer data from across silos into a unified, cleaned, and enriched customer profile. Then,
+    it makes this information available to each team across the entire company. In other words, Hull connects
+    and combines data so users can orchestrate a personal, relevant experience at every touchpoint using
+    existing tools. With Hull, every interaction is more relevant and efficient: Marketing emails are
+    more per'
+  slug: hull
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: iBanFirst
+  url: https://www.ibanfirst.com/
+  description: Founded by the former CEO of Saxo Bank, iBanFirst revolutionizes international payments
+    for companies. The company has raised over $51 million to date.
+  sector: fintech-insurtech
+  sectors:
+  - fintech-insurtech
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/ibanfirst/
+  founded: '2013'
+  geography: France, Belgium & Netherlands
+  exit_note: Acquired by Marlin Equity Partners
+  long_description: Founded in 2013, iBanFirst provides businesses with an internationally optimized financial
+    services platform, combining technological, financial, and regulatory expertise . Since its inception,
+    iBanFirst has raised 25 million euros to become the European leader in financial services for companies
+    with global business operations. Licensed by the National Bank of Belgium, iBanFirst is the only online
+    service that creates personalized IBANs in 25 currencies. Today, the company has offices in Paris
+    (HQ), Amsterdam, Antwerp, Berlin, Brussels, and Dijon and it has 150 employees. Having already won
+    several awards, iBanFirst was named “Fintech scale-up” of the year 2018 in Belgium and is part of
+    Deloitte's recognized “Technology Fast 50.”
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ibanfirst
+- name: iContainers
+  url: https://www.icontainers.com/
+  description: Europe's leading real-time booking platform for container transport by land and sea
+  sector: marketplace
+  sectors:
+  - marketplace
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/icontainers/
+  founded: '2008'
+  geography: US & Spain
+  exit_note: Acquired by Agility
+  long_description: iContainers is a digital platform fueling the future of freight services, on a mission
+    to make the international trade industry more transparent and turnkey. Its platform allows users to
+    browse freight services, shipping rates, and scheduling times, with an option for door-to-door pickup
+    – so that businesses can save time and money, and improve their bottom line. iContainers serves more
+    than 250,000 ocean trade routes to more than 300 sites in the US, Europe, Asia, Australia, Latin America,
+    and Africa. Founded in 2007 by Iván Tintore and Carlos Hernández, iContainers is headquartered in
+    Miami with offices in Barcelona, Rotterdam, Santo Domingo, and Ahmedabad (India).
+  in_network: false
+  is_api_provider: false
+  suggested_slug: icontainers
+- name: Implicity
+  url: https://www.implicity.com/
+  description: The French leader in remote monitoring of implantable cardiac prostheses
+  sector: healthtech
+  sectors:
+  - healthtech
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/implicity/
+  founded: '2016'
+  geography: France
+  long_description: Created in May 2016, Implicity offers an innovative platform for remote monitoring
+    of patients implanted with connected heart prostheses, like pacemakers and defibrillators. Founded
+    by Arnaud Rosier, a cardiologist and AI researcher , this service allows remote management of alerts
+    from connected devices from 5 top global manufacturers (Abbott, Biotronik, Boston Scientific, Medtronic,
+    and Microport) via a single harmonized platform. Implicity aims to simplify and optimize the remote
+    monitoring of connected cardiac implants in order to improve the quality of care provided , in particular
+    by using cutting-edge artificial intelligence.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: implicity
+- name: Inato
+  url: http://www.inato.com/
+  description: Matches the right sites to the right clinical research studies, globally
+  sector: ai-data
+  sectors:
+  - ai-data
+  - healthtech
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/inato/
+  founded: '2016'
+  geography: France & US (NYC)
+  long_description: Inato matches clinical trials with qualified sites worldwide and optimizes site performance
+    throughout the trial. It helps biopharma companies and CROs identify high-performing sites, increase
+    the pool of available patients, and deliver efficient, timely studies. The platform is built with
+    doctors, for doctors —to tackle the most complex research challenges.
+  slug: inato
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Jam.gg
+  url: https://jam.gg/fr
+  description: Timeless retro games. Online multiplayer.
+  sector: gaming
+  sectors:
+  - gaming
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/piepacker/
+  founded: '2020'
+  geography: France
+  exit_note: Acquired
+  long_description: Jam.gg is a free cloud gaming platform to hangout and play premium retro games with
+    your friends online. It combines the video with a series of licensed popular retro-style games that
+    friends can easily play together. It is simpler than organizing a discordant group but more interactive
+    than just streaming. Jam.gg was selected by TechCrunch in their top 12 favorite startups of the YC20
+    batch.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jam-gg
+  x-suggested-slug: jam-gg
+- name: Jimmy
+  url: https://www.jimmy-energy.eu/
+  description: Jimmy massively decarbonizes industrial process heat based on nuclear fission.
+  sector: climate-tech
+  sectors:
+  - climate-tech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/jimmy/
+  founded: '2020'
+  geography: Paris, France
+  long_description: 'Jimmy provides competitive, low-carbon process heat for industrials. Jimmy was created
+    based on two findings : first, industrials struggle to find an alternative source of process heat
+    to replace gas, marking process heat one of the largest GES emitting sectors. Second, nuclear fission
+    produces cheap, zero-carbon heat. The company builds and operates thermal generators based on nuclear
+    fission, using a proven and intrinsically safe technology (High Temperature Reactor). The first generator
+    will be commissioned in 2026 at a first industrial client''s plant, while the company has already
+    achieved major design, licensing, and industrial milestones.'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jimmy
+- name: Joy (ex-Privateaser)
+  url: https://www.joy.io/
+  description: An online booking platform for events
+  sector: marketplace
+  sectors:
+  - marketplace
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/joy/
+  founded: '2014'
+  geography: France & Spain
+  long_description: Created in 2014 by 3 alumni from Centrale Paris school, Privateaser is an online marketplace
+    that allows users to find and book the right place for any kind of events. In 2020, identifying an
+    untackled need from venue managers, they started to offer a digital assistant (SaaS) that supports
+    bar and restaurant managers in boosting their revenues from group bookings.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: joy-io
+  x-suggested-slug: joy-io
+- name: Kardinal
+  url: https://kardinal.ai/
+  description: A SaaS Solution for real-time tour optimization, based on cutting-edge algorithms
+  sector: saas
+  sectors:
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/kardinal/
+  founded: '2015'
+  geography: France
+  long_description: Kardinal is a real-time tour optimization SaaS solution for logistics and Field Services
+    companies. Thanks to its cutting-edge algorithms, Kardinal offers its customers the ability to plan
+    their tours in an optimal way, reducing their costs and the time they allocate to planning, all while
+    offering better quality service. The special feature of the solution lies in its ability to manage
+    real-time. Kardinal's team developed an ultra-flexible solution integrating all of its customers'
+    processes. The machine is thus informed at all times of the exact context, allowing it to manage unexpected
+    events when they occur by suggesting relevant solutions in real-time.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kardinal
+- name: kelvin
+  url: https://www.go-kelvin.com/
+  description: A software dedicated to construction and real estate professionals.
+  sector: climate-tech
+  sectors:
+  - climate-tech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/kelvin/
+  founded: '2023'
+  geography: France
+  long_description: Founded in 2023 by serial entrepreneurs Clémentine Lalande, Guillaume Sempé, and Pierre
+    Joly, kelvin is a French startup offering a software solution for professionals in construction and
+    real estate. kelvin leverages artificial intelligence to generate energy studies for housing renovation
+    projects, helping professionals make informed decisions to enhance energy efficiency. The software
+    combines open data, computer vision, and AI, co-developed with renowned partners like CSTB (Centre
+    Scientifique et Technique du Bâtiment), U.R.B.S (IMOPE database), and NOBATEK/INEF4 (Institute for
+    Sustainable Building Energy Transition), ensuring accuracy and reliability. With buildings accounting
+    for 43% of France's annual energy consumption, kelvin remotely estimates a property's energy performance
+    and provides cost-effective tailored renovation recommendations to improve the Energy Performance
+    Certif
+  slug: kelvin
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kili Technology
+  url: https://kili-technology.com/
+  description: The annotation platform to generate the data you need to address key challenges for your
+    organization.
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/kili-technology/
+  founded: '2018'
+  geography: France
+  long_description: 'Despite the hype around AI, 80% of the AI projects are not going to production. The
+    1st reason is lack of labeled data. To build AI in production, you need: – Computing power: available
+    on shelf – State of the art algorithm: available open source – Labeled data in quantity & quantity:
+    NOT available & COSTLY to produce Kili''s mission is to help companies to successfully transform their
+    industries thanks to AI in production. The company offers an industrial grade and collaborative platform
+    , to create and manage training sets.'
+  slug: kili-technology
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kiute
+  url: https://www.kiute.com/
+  description: Democratizing access to beauty for consumers while helping beauty professionals to live
+    well from their passion
+  sector: marketplace
+  sectors:
+  - marketplace
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/flexy/
+  founded: '2020'
+  geography: France
+  exit_note: Acquired by Booksy
+  long_description: 'Created in 2020, Kiute is the French leader in online bookings for beauty services.
+    Resulting from the merger of Flexy and LeCiseau , the solution aims to democratize access to beauty
+    for consumers while helping beauty professionals to live well from their passion . Through its all-in-one
+    solution , Kiute responds to the challenges of digitalization in the beauty industry to unite professionals
+    and consumers: the company supports the industry'' professionals in the development of their business
+    and their reputation while enabling users to book the right service at the right time and at the right
+    price. With more than 10,000 partner salons in over 200 French cities and 250,000 bookings per month
+    , Kiute has established itself as the key player in the French beauty industry.'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kiute
+- name: Klarys
+  url: https://www.klarys.io/
+  description: The first eProcurement platform designed for the fresh food industry
+  sector: saas
+  sectors:
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/klarys/
+  founded: '2016'
+  geography: France & Switzerland
+  long_description: 'Klarys (formerly Procsea) was created in September of 2016 by Renaud Enjalbert and
+    Florian Dhaisne and is currently based in France and Switzerland. Klarys is the first eProcurement
+    platform tailored to the specific challenges of the fresh food industry. The solution is designed
+    for all players in the fresh food supply chain: suppliers and producers, central purchasing agencies
+    and stores, wholesalers, and processors. It digitizes and simplifies fresh food purchasing processes
+    to : – Gain operational efficiency – Manage fresh food performance – Ensure end-to-end data reliability
+    – Meet corporate CSR commitments With Klarys all-in-one platform, buying fresh food has never been
+    easier.'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: klarys
+- name: Kleio
+  url: https://www.kleio.ai/
+  description: 'Building Persuasive AI: a multi-agent conversational AI to boost sales'
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/kleio/
+  founded: '2024'
+  geography: France
+  long_description: 'Kleio AI specializes in developing Persuasive AI: a conversational AI technology
+    focused on enhancing lead capture and conversion for B2C companies selling complex premium products.
+    Kleio AI has been Founded in 2024 by three AI veterans with over 20 years of industry experience.
+    They provide highly tailored, transformative solutions across industries such as travel, cosmetics,
+    real estate, energy efficiency and others. Existing clients include: Showroomprivé, Havas Voyages,
+    Bouygues Immobilier, Effy, Voyageurs du Monde'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kleio
+- name: Kotcha
+  url: https://www.kotcha.com/
+  description: The AI-powered running coaching app co-founded with Eliud Kipchoge
+  sector: sporttech
+  sectors:
+  - sporttech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/kotcha/
+  founded: '2025'
+  geography: World
+  long_description: Kotcha is the next generation running app, redefining the sport as a team experience.
+    Born from the collaboration of app experts Ben Dupont, Michel-André Chirita and Dimitri Dor with Eliud
+    Kipchoge and the NN Running Team, Kotcha blends Kipchoge's methods, human-like AI coaching and strong
+    community bonds, so no runner ever runs alone.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kotcha
+- name: Kotzilla
+  url: https://kotzilla.io/
+  description: Software architecture
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/kotzilla/
+  founded: '2022'
+  geography: Toulouse, France
+  long_description: With users spending on average 3,5 hours per day on their mobile phones, mobile apps
+    have turned into a $3T annual revenue gateway. To win market share on the mobile channel, companies
+    need efficient and reliable apps, but developers face challenges in proactively identifying and addressing
+    errors. Kotzilla offers a complete suite of software architecture tools that provide proactive insights
+    from development to production. Its Koin dependency injection framework, used in over 350,000 Android
+    apps, streamlines architecture effectively. Kotzilla's Cloud-Inject platform offers advanced observability
+    and optimization, giving developers unparalleled visibility into their apps, allowing them to identify
+    and address issues before they impact users. Kotzilla was founded in 2022 by Arnaud Giuliani and Michaël
+    Montoya and is based in Toulouse – France
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kotzilla
+- name: Koyeb
+  url: https://www.koyeb.com/
+  description: The fastest way to deploy applications globally
+  sector: infrastructure
+  sectors:
+  - infrastructure
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/koyeb/
+  founded: '2022'
+  geography: France
+  exit_note: Acquired by Mistral
+  long_description: Launched publicly in 2022 by Yann Léger, Édouard Bonlieu, and Bastien Chatelard, Koyeb
+    provides a global serverless platform that significantly simplifies the deployment of globally distributed
+    applications. Koyeb's integrated solution allows for the deployment of web applications, APIs, and
+    databases worldwide in just a matter of minutes. Today, the company empowers over 50,000 developers
+    and businesses to fully focus on their applications without the need to worry about infrastructure
+    concerns.
+  slug: koyeb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: LaFourchette
+  url: http://www.lafourchette.com/
+  description: Leading European online restaurant reservation platform, TheFork (La Fourchette) was acquired
+    in 2014 for $140 million by TripAdvisor.
+  sector: consumer
+  sectors:
+  - consumer
+  - marketplace
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/lafourchette/
+  founded: '2007'
+  geography: France, Spain & Switzerland
+  exit_note: Acquired by TripAdvisor
+  long_description: Leading European online restaurant reservation platform in Europe, Australia, and
+    Latin America, TheFork (La Fourchette), was acquired in 2014 for 140 million$ by TripAdvisor. It has
+    a network of more than 65,000 restaurants worldwide and more than 27 million monthly visits. The platform
+    operates as “LaFourchette”​ in France and Switzerland, as “ElTenedor”​ in Spain, as “TheFork”​ in
+    Italy, The Netherlands, Belgium, Portugal, Brazil, Sweden, Denmark, Australia, Argentina, Brasil,
+    Chile, Colombia, Mexico, Peru, and Uruguay. It also operates in English as “TheFork.com.” TheFork
+    connects restaurants and diners. Through TheFork (website and application), as well as through TripAdvisor,
+    users can easily select a restaurant according to preference criteria (such as the localization, type
+    of cuisine, restaurant type, and average price), consult user reviews, check real-time availability,
+    and in
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lafourchette
+- name: Launchmetrics
+  url: https://launchmetrics.com/
+  description: Leading brand performance cloud for fashion, luxury & beauty
+  sector: saas
+  sectors:
+  - saas
+  status: exited
+  source: https://www.serena.vc/portfolio-profile/launchmetrics/
+  founded: '2015'
+  geography: France, Spain, UK, Italy, & US (NYC)
+  exit_note: Exited
+  long_description: Founded in NYC with operating headquarters in Paris, and offices in London, Milan,
+    Los Angeles, Tokyo, Madrid, Girona, and Munich and support in five languages, Launchmetrics is a Marketing
+    Platform and Analytics Solution to help Fashion, Luxury, and Cosmetics professionals discover, activate,
+    and measure the voices that matter. The company works with over 1,000 brands as well as partners like
+    IMG, the Council of Fashion Designers of America, the British Fashion Council, Pitti Immagine, Camera
+    Nazionale della Moda Italiana and Google, to accelerate their business and build lasting exposure.
+    The company's industry communities GPS Radar & Style Coalition bring together over 50,000 influencers,
+    editors, buyers, and more to share content, events, news, images, and more
+  in_network: false
+  is_api_provider: false
+  suggested_slug: launchmetrics
+- name: Lengow
+  url: http://www.lengow.fr/
+  description: An innovative feed management solution that allows retailers to optimize their visibility
+    and profitability across all online channels
+  sector: saas
+  sectors:
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/lengow/
+  founded: '2009'
+  geography: France
+  exit_note: Acquired by Marlin Equity Partners
+  long_description: 'Lengow is the e-commerce automation solution that helps brands and distributors improve
+    their performance, automate their business processes, and grow internationally. Intuitive and innovative,
+    the Lengow platform is the key that opens the door to strong profitability and visibility for products
+    sold by online retailers around the world on all distribution channels : marketplaces, comparison
+    shopping engines, affiliate platforms, and display/retargeting. With more than 1,800 partners that
+    have been collaborating with Lengow since 2009, this SaaS solution offers a powerful ecosystem to
+    the 3,600 merchants that use it in 45 countries across the globe. In February 2021, Marlin Equity
+    Partners has completed a majority control growth investment in Lengow.'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lengow
+- name: Leonardo.ai
+  url: https://leonardo.ai/
+  description: AI Asset Generation Platform
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/leonardo-ai/
+  founded: '2022'
+  geography: Sydney
+  exit_note: Acquired by Canva
+  long_description: Leonardo.ai is transforming the creative industry with its AI-driven art platform.
+    Its comprehensive toolset enables the effortless creation, editing, and management of AI-generated
+    digital assets. The platform not only accelerates the production of high-quality digital assets but
+    also redefines the integration of technology and creativity in asset creation.
+  slug: leonardo-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Lifen
+  url: https://www.lifen.fr/
+  description: Helps hospitals share medical data with doctors and patients
+  sector: ai-data
+  sectors:
+  - ai-data
+  - healthtech
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/lifen/
+  founded: '2015'
+  geography: France
+  long_description: Founded in February 2015, Lifen aims to digitize health care. Lifen offers a suite
+    of artificial intelligence-based solutions that facilitate the access, structuring and secure sharing
+    of healthcare data. Today, Lifen helps more than 800 hospitals and 20,000 independent healthcare professionals
+    reduce their administrative workload, personalize care and accelerate clinical research. With 160
+    employees in France, Lifen has established itself as a key player in the digital healthcare sector.
+    Access the health secure messaging right here.
+  slug: lifen
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Lokki
+  url: https://www.lokki.rent/
+  description: Lokki, The Rental Reflex
+  sector: climate-tech
+  sectors:
+  - climate-tech
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/lokki/
+  founded: '2019'
+  geography: France
+  long_description: Lokki is the all-in-one B2B SaaS for equipment Rental Shops. The solution aims at
+    democratizing leisure equipment rental in our daily lives and making renting a simpler experience
+    than buying. Thanks to Lokki, bike, snowboard, and ski rental companies can increase their rentals
+    and move towards more profitable and sustainable business models. The software also offers consumers
+    a more responsible way of consumption and an effortless renting experience.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lokki
+- name: Malt
+  url: https://www.malt.fr/
+  description: Connects companies (from Fortune 500 to SMEs) with the best freelancers
+  sector: marketplace
+  sectors:
+  - marketplace
+  status: active
+  source: https://www.serena.vc/portfolio-profile/malt/
+  founded: '2013'
+  geography: France, Spain, & Germany
+  long_description: Malt connects businesses with freelancers, finding the perfect match for every project.
+    They help both parties manage their administrative, legal, and payment processes in a safe and secure
+    way. Founded by Vincent Huguet (CEO) and Hugo Lassiège (CTO) in 2013, Malt has gained the trust of
+    more than 170,000 freelancers and 90,000 clients so far (85% of the CAC 40 in France), thus becoming
+    the leading marketplace for digital talent. Recognized as one of the best startups to work for by
+    LinkedIn , the company currently counts 200 Malters who share values of care, ambition, joy, and autonomy.
+    Malt's offices are based in Paris, Lyon, Madrid, Munich, and Berlin. In 2020, Alexandre Fretti , former
+    managing director at Webhelp, joined the company as managing director to accompany its hypergrowth
+    in France and Europe.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: malt
+- name: May
+  url: https://may-sante.com/
+  description: Empowering parents in their life's greatest adventure
+  sector: edtech
+  sectors:
+  - edtech
+  - healthtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/may/
+  founded: '2020'
+  geography: France
+  long_description: May is a mobile health app created in Paris that empowers (future) parents with proactive,
+    personalized, and holistic care. May puts a healthcare team in (future) parents' pocket, answering
+    any questions by chat 7/7, and offers exclusive content at each step from pregnancy to school, for
+    an enlightened and relaxed parenting journey.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: may
+- name: Melty
+  url: http://www.melty.fr/
+  description: The media group for Generation Y
+  sector: consumer
+  sectors:
+  - consumer
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/melty/
+  founded: '2008'
+  geography: Europe & South America
+  exit_note: Acquired by Reworld Media
+  long_description: Melty is the first media group dedicated to millennials and youth culture. Their teams
+    are passionate about creating content for the most versatile and influential consumer targets and
+    making this content visible on all major platforms .
+  in_network: false
+  is_api_provider: false
+  suggested_slug: melty
+- name: Memo Bank
+  url: https://memo.bank/
+  description: A bank designed by business people for business people
+  sector: fintech-insurtech
+  sectors:
+  - fintech-insurtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/memo-bank/
+  founded: '2017'
+  geography: France
+  long_description: Memo Bank, the first independent business bank founded and funded by entrepreneurs,
+    is committed to being a financial partner SMEs can count on to support their growth.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: memo-bank
+- name: Metrobloks
+  url: https://metrobloks.com
+  description: Reshaping data centers for the AI era
+  sector: unknown
+  sectors: []
+  status: active
+  source: https://www.serena.vc/portfolio-profile/metrobloks/
+  founded: '2024'
+  geography: Los Angeles, California
+  long_description: Metrobloks is revolutionizing data infrastructure in major metro areas across North
+    America. With a focus on providing low-latency, high-capacity data solutions for AI/ML, IoT, Gaming,
+    Streaming and other data intensive services, Metrobloks delivers future-proof multi-tenant colocation
+    facilities to underserved urban markets. Founded by a diverse team of industry veterans, Metrobloks
+    is committed to shaping the future of digital connectivity.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: metrobloks
+- name: Mindee
+  url: https://mindee.com/
+  description: Instantly captures APIs, transforming documents into usable data
+  sector: ai-data
+  sectors:
+  - ai-data
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/mindee/
+  founded: '2018'
+  geography: France
+  long_description: Mindee has developed unique artificial intelligence technologies to create and deploy
+    high-performance text extraction solutions for documents. Its APIs instantly turn any visual information
+    in any document into actionable data with 90%+ accuracy and It also has the best UX thanks to instant
+    and painless processing. The solutions are real-time, plug-and-play , and data protection-centric.
+    Current use cases include Expense Management, Invoice Management, Payslips, KYC and AML.
+  slug: mindee
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: MONI (Ex-Monisnap)
+  url: https://www.monisnap.com/fr/
+  description: Money transfer has never been this simple
+  sector: fintech-insurtech
+  sectors:
+  - fintech-insurtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/moni/
+  founded: '2017'
+  geography: France, Spain & UK
+  long_description: Moni is the new alternative to sending money abroad to developing countries, with
+    the fairest fees. The company was founded in 2017 by former employees from Google and Groupon , finally
+    bringing to life the long-awaited disruption in the traditional European remittance market, which
+    suffers from poor customer satisfaction, high fees, and dull products.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: monisnap
+  x-suggested-slug: monisnap
+- name: Naftiko
+  url: https://naftiko.io/
+  description: Naftiko turns API sprawl into a governed capability fabric that teams can depend on.
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/naftiko/
+  founded: '2025'
+  geography: Paris, Philadelphia, New York City
+  long_description: Naftiko reinvents API integration for the AI era with a governed and versatile platform
+    based on capabilities that streamlines API sprawl created by the massive SaaS growth and microservices.
+    Naftiko delivers the first spec-driven open source solution that enables engineering teams to embrace
+    legacy data and systems while integrating their AI future. Naftiko operates from Paris, Philadelphia
+    and New York City.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: naftiko
+  x-no-stub: kin has stopped all naftiko work
+- name: Norbert Health
+  url: https://www.norberthealth.com/
+  description: Building the future of ambient predictive medicine
+  sector: healthtech
+  sectors:
+  - healthtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/norbert-health/
+  founded: '2019'
+  geography: US & France
+  long_description: Our mission is to make the scanning and monitoring of the human body's essential vital
+    signs easy, fast, and ubiquitous. We have built the first ever contactless vital signs sensor that
+    can capture Temperature, Heart rate, Heart rate variability, Pulse wave velocity, and soon SpO2 and
+    Respiratory rate in a few minutes. More data improves accuracy and leads to better outcomes. Our products
+    can measure and understand people's health without any contact or effort required by the person. Our
+    platform is safe, secure, and easy-to-use, whatever your space.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: norbert-health
+- name: Odaseva
+  url: https://www.odaseva.com/
+  description: 'The most advanced cloud data management platform for Salesforce Enterprise customers:
+    back-up, archive & GDPR'
+  sector: ai-data
+  sectors:
+  - ai-data
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/odaseva/
+  founded: '2012'
+  geography: US (San Francisco) & France
+  long_description: Sovan Bin founded Odaseva after 15 years of experience in the CRM industry. Recognized
+    by his peers as one of the most experienced cloud architects for his vision around data, security,
+    and performance, he was the 12th worldwide and 1st EMEA Salesforce Certified Technical Architect.
+    For large organizations that leverage Salesforce as a mission-critical application, Odaseva delivers
+    enterprise-class data governance, providing data protection (backup, ultra-high availability, archiving,
+    governor limits AI) , data privacy (GDPR, CCPA, PIPEDA), and data ops (Salesforce DX Extensions).
+  slug: odaseva
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Onibi
+  url: http://onibi.gg/
+  description: Creativity in a Boundless Oceanic Adventure
+  sector: unknown
+  sectors: []
+  status: active
+  source: https://www.serena.vc/portfolio-profile/onibi/
+  founded: '2023'
+  geography: USA / Europe
+  long_description: Onibi introduces “Jamland,” a cross-platform MMO Action RPG set in a vast oceanic
+    world with unique islands, dungeons, and civilizations to discover. We reimagined Minecraft's gameplay
+    by allowing players to freely create moving structures and interactive contraptions out of blocks,
+    such as boats, flying machines, or even a giant mecha! Using Generative AI, Jamland allows players
+    to transform ideas into in-game elements with simple prompts. The game emphasizes exploration, adventures,
+    home customization, social interaction, and melds traditional MMO progression with boundless creative
+    potential.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: onibi
+- name: Opsmill
+  url: https://www.opsmill.com/
+  description: Simplifying Infrastructure Automation
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/opsmill/
+  founded: '2023'
+  geography: France
+  long_description: Opsmill provides infrastructure automation solutions, helping IT teams streamline
+    and manage infrastructure more efficiently. Their flagship product, InfraHub, is an open-source platform
+    designed to centralize infrastructure configurations, offering features like version control and automation
+    of routine tasks. This enables organizations to enhance operational efficiency, reduce errors, and
+    improve scalability. By simplifying infrastructure management, Opsmill supports businesses in adapting
+    to the rapid demands of digital transformation, ensuring agility and responsiveness in a dynamic technological
+    landscape.
+  slug: opsmill
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: PandaScore
+  url: https://pandascore.co/welcome
+  description: The esports data API
+  sector: ai-data
+  sectors:
+  - ai-data
+  - gaming
+  status: active
+  source: https://www.serena.vc/portfolio-profile/pandascore/
+  founded: '2015'
+  geography: Worldwide
+  long_description: PandaScore's mission is to build up the esports ecosystem by fast & accurate data
+    to any esports business. PandaScore uses a combination of artificial intelligence and esports experts
+    to provide the most reliable data infrastructure in the industry . With customers and employees all
+    over the world, PandaScore is expanding quickly and ready to take esports to the next level all over
+    the globe.
+  slug: pandascore
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Pelico
+  url: https://www.pelico.ai/
+  description: Connecting factory teams to manage daily volatility and deliver products on time, at cost.
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/pelico/
+  founded: '2019'
+  geography: France (HQ), USA
+  long_description: Pelico's operations management system connects factory teams to manage daily volatility
+    and deliver products on time, at cost. It empowers factory teams to continuously anticipate bottlenecks,
+    act fast with AI-assisted recommendations, and collaborate across teams on the implementation of corrective
+    actions.
+  slug: pelico
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Pixeltable
+  url: https://www.pixeltable.com/
+  description: Multimodal AI Data Infrastructure
+  sector: ai-data
+  sectors:
+  - ai-data
+  - infrastructure
+  status: active
+  source: https://www.serena.vc/portfolio-profile/pixeltable/
+  founded: '2024'
+  geography: US
+  long_description: Pixeltable is an open-source AI data infrastructure designed to simplify the development
+    and management of AI applications . It provides a declarative, multimodal, and incremental platform
+    that unifies data storage, model inference, and orchestration under a single table interface .
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pixeltable
+- name: Polaron
+  url: https://www.polaron.ai/
+  description: Polaron is transforming the design of advanced materials, unlocking years of materials
+    science in days.
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/polaron/
+  founded: '2023'
+  geography: United Kingdom
+  long_description: Polaron is an AI-first materials company building the intelligence layer for the physical
+    world. Spun out from Imperial College London, Polaron combines state-of-the-art generative AI with
+    deep materials science expertise to accelerate the development of advanced materials. The company's
+    platform is used by world-leading manufacturers to characterise materials, optimise processes, and
+    design higher-performing products.
+  slug: polaron
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Poppins
+  url: https://www.poppins.io/
+  description: Learning companion for dyslexic children
+  sector: ai-data
+  sectors:
+  - ai-data
+  - edtech
+  - healthtech
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/poppins/
+  founded: '2018'
+  geography: France
+  long_description: Launched in 2018 by François Vonthron and Antoine Yuen, and spun out of École Polytechnique,
+    Poppins is a start-up specializing in the development of medical devices for the management of neurodevelopmental
+    disorders, in particular dyslexia, which accounts for 80% of learning disorders. The Medical Device
+    offers a structured training protocol in the form of a video game comprising 31 written language and
+    rhythm exercises, accessible on tablet or smartphone. The clinical benefit of Poppins has been demonstrated
+    in comparative clinical trials, and represents a breakthrough in care by offering the possibility
+    of considerably intensifying care through its use in the home, in direct response to the sector's
+    critical needs in terms of frequency and regularity of interventions.
+  slug: poppins
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Powder
+  url: https://powder.gg/
+  description: Powder aspires to become the camera of the Metaverse. People increasingly live online,
+    in games, and it hopes to allow them to capture their highlights here for perpetuity.
+  sector: gaming
+  sectors:
+  - gaming
+  status: active
+  source: https://www.serena.vc/portfolio-profile/powder/
+  founded: '2018'
+  geography: Worldwide
+  long_description: Powder is building the video infrastructure of social gaming , an ultimate companion
+    app that provides all gamers with the necessary tools to create and share creative gaming content,
+    whether their purpose is of creative, social or competitive nature. Powder officially launched on
+    the App Store on April 10th, 2020; ten months later, in February 2021, the platform has over 1.5 million
+    downloads, with most of them coming from the US. Powder lets gamers import game clips recorded on
+    mobile (iOS, Android), PC, and consoles (Xbox, PlayStation, Switch). An equal volume of content comes
+    from each platform. Powder utilizes proprietary machine learning technology to enhance gamers' experience
+    by automatically finding video highlights in their gameplay and showcasing their content to like-minded
+    gamers , culminating in clans' creation on the platform.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: powder
+- name: Prestashop
+  url: http://www.prestashop.com/
+  description: The best open-source e-commerce platform solution
+  sector: marketplace
+  sectors:
+  - marketplace
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/prestashop/
+  founded: '2007'
+  geography: France, Italy & Spain
+  exit_note: Acquired by MBE Worldwide
+  long_description: PrestaShop was founded in 2007 with a mission to provide world-class e-commerce software
+    through open source innovation. As the leading e-commerce platform in Europe and Latin America, PrestaShop
+    allows everyone to create their own online store and develop it in pursuit of their own ambition.
+    Based on an open-source model, PrestaShop allows any merchant to operate an e-commerce project anywhere
+    in the world, benefiting from a solution that can be fully customized and adapted to each market.
+    The solution already enabled all its stores to generate over 17 billion euros in sales in 2019. Today,
+    every 4 minutes, a PrestaShop shop is created somewhere in the world. The PrestaShop open-source community
+    includes one million merchants, developers, and web agencies from around the world. PrestaShop is
+    the proud 2014 winner of two CMS Critic Awards for Best eCommerce Solution for SMBs, and Best eC
+  slug: prestashop
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Pretto
+  url: https://www.pretto.fr/
+  description: Master your home loan
+  sector: fintech-insurtech
+  sectors:
+  - fintech-insurtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/pretto/
+  founded: '2017'
+  geography: France
+  long_description: Pretto is a home mortgage FinTech . We have built the first tech platform that aggregates,
+    analyzes and identifies the best banking offers . Our expert teams and our UX make this crucial time
+    in life simple and fair for borrowers. Reactive and transparent, our experts coach their clients remotely,
+    negotiate for them with the banks and support them until the signature. Already a leading online mortgage
+    broker, we are now opening our platform to real estate professionals.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pretto
+- name: Prixtel
+  url: https://www.prixtel.com/
+  description: One of the first French Mobile Virtual Network Operators (MVNO)
+  sector: consumer
+  sectors:
+  - consumer
+  status: exited
+  source: https://www.serena.vc/portfolio-profile/prixtel/
+  founded: '2004'
+  geography: France
+  exit_note: Exit by MBO
+  long_description: Prixtel is a mobile and land phone network operator. Founded in 2004, Prixtel has
+    been revolutionizing the telecoms market with innovative offers for land and mobile phones, internet,
+    and ADSL for individuals and professionals.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: prixtel
+- name: Probabl
+  url: https://probabl.ai/
+  description: Own Your Data Science
+  sector: open-source
+  sectors:
+  - open-source
+  status: active
+  source: https://www.serena.vc/portfolio-profile/probabl/
+  founded: '2023'
+  geography: Global
+  long_description: Probabl is a spin-off from Inria, founded in 2023 to industrialize and support scikit-learn,
+    the world's most widely used open-source machine learning library (over 2.5 billion downloads). Probabl
+    develops and operates a suite of solutions to help companies deploy AI in a traceable and sovereign
+    manner.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: probabl
+- name: PyannoteAI
+  url: https://pyannote.ai/
+  description: State-of-the-art conversational speech AI
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/pyannoteai/
+  founded: '2024'
+  geography: France
+  long_description: pyannoteAI is pioneering Speaker Intelligence AI, transforming how AI processes and
+    understands spoken language. With its speaker diarization technology as a core, pyannoteAI provides
+    an essential solution to unlock the next generation of enterprise-grade speech applications and real-time
+    speaker intelligence.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pyannoteai
+- name: Qualtera
+  url: https://www.qualtera.com/
+  description: Semiconductor data analytics and solutions to improve manufacturing processes
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/qualtera/
+  founded: '2010'
+  geography: France
+  exit_note: Acquired by Synopsys, Inc.
+  long_description: Qualtera provides the next generation of high-volume big data solutions to industrial
+    companies, OSATs, IDMs, and foundries – delivering comprehensive real-time intelligence and control
+    of IC manufacturing and test operations. In 2020, Qualtera was acquired by Synopsys, Inc.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: qualtera
+- name: Quandela
+  url: https://www.quandela.com/
+  description: Leader in Quantum Computing using light
+  sector: quantum
+  sectors:
+  - quantum
+  status: active
+  source: https://www.serena.vc/portfolio-profile/quandela/
+  founded: '2017'
+  geography: France, Germany, UK
+  long_description: Quandela, leader in quantum photonics, develops full-stack quantum computers, available
+    both on cloud and on-premise. Quandela is currently the largest quantum photonics player in Europe.
+    In 2022, Quandela released its photonic computer programming and simulation software, Perceval. The
+    company offers cloud access to Ascella, its first 6-qubit quantum computer since the fall of 2022.
+    In March 2023, OVHcloud purchased the first on-premise Quandela quantum computer that was delivered
+    in the fall. Quandela also supports and advises industries and organizations, such as EDF, MBDA and
+    ONERA, in the exploration and development of the first use cases.
+  slug: quandela
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Quantilia
+  url: https://www.quantilia.com/
+  description: The web application focused on quantitative indices and dedicated to institutional investors
+  sector: ai-data
+  sectors:
+  - ai-data
+  - fintech-insurtech
+  status: exited
+  source: https://www.serena.vc/portfolio-profile/quantilia/
+  founded: '2017'
+  geography: France
+  exit_note: Exit by MBO
+  long_description: An independent Fintech company, Quantilia provides an innovative online data and portfolio
+    management system, dedicated to institutional investors. The platform includes a comprehensive index,
+    fund and market data, and ESG research , as well as powerful analytics and tools specifically developed
+    to assist institutional investors to make better-informed decisions when managing their portfolios.
+    Quantilia's aim, as an independent company, is to facilitate business relations between investment
+    banks and asset managers on the one hand, and asset owners on the other hand , including sovereign
+    wealth funds, pension funds, endowments, private banks, and family offices.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: quantilia
+- name: Rainbow
+  url: https://www.rainbowstandard.io/
+  description: Rainbow issues science-backed carbon credits that align with business strategies and climate
+    commitments.
+  sector: climate-tech
+  sectors:
+  - climate-tech
+  - nature-tech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/rainbow/
+  founded: '2021'
+  geography: France (Paris) - Germany (Berlin)
+  long_description: Rainbow is a carbon crediting platform focused on engineered climate projects. It
+    issues high-integrity carbon credits that align with a company's core operations—its supply chain,
+    industry, and geography. To date, Rainbow has certified over 60 projects , issued more than 250,000
+    carbon credits , and earned full ICROA endorsement . Its credits are designed to integrate directly
+    with a business's value chain and climate strategy, ensuring both environmental and operational relevance.
+    Riverse partners with leading climate and technology players such as Patch , EcoAct , Southpole ,
+    CEEZER , Removall , and Carbonapp , and supports sustainability efforts from corporates including
+    BNP Paribas , Mirakl , Engie , and Bouygues . Integrity and impact form the foundation of Riverse's
+    approach. Innovation is the upside.
+  slug: riverse
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Roofline
+  url: https://www.roofline.ai/
+  description: Enable the edge ai products you dream of
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/roofline/
+  founded: '2024'
+  geography: Germany
+  long_description: Roofline offers a software platform designed to simplify edge AI model deployment
+    across diverse hardware targets. Building on a next-gen AI compiler, the solution allows users to
+    import AI models from any framework and run them efficiently with a single Python call. Their main
+    products are a Software Development Kit (SDK), a runtime, and a comprehensive benchmarking tool, addressing
+    key challenges in edge AI by offering unmatched flexibility, high performance, and ease of use. Roofline
+    aims to eliminate traditional deployment barriers and enable more accessible AI implementation across
+    various hardware platforms.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: roofline
+- name: RSI Video Technologies
+  url: https://www.videofied.com/
+  description: Innovative wireless alarm systems with video verification
+  sector: unknown
+  sectors: []
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/rsi-video-technologies/
+  founded: '2000'
+  geography: Europe & US
+  exit_note: Acquired by Honeywell
+  long_description: Founded in 2000, RSI Video Technologies designs and manufactures electronic security
+    equipment including smoke detectors, alarms, sirens, badges, readers, applications, and software.
+    The commercialization of the products is made under the brand “Videofied.” RSI Video Technologies
+    conducts business worldwide.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rsi-video-technologies
+- name: Santé Académie
+  url: http://www.santeacademie.com/
+  description: The Continuing Medical Education that health professionals deserve
+  sector: edtech
+  sectors:
+  - edtech
+  - healthtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/sante-academie/
+  founded: '2020'
+  geography: France
+  long_description: 'Founded in 2020, Santé Académie rethinks Continuing Medical Education by offering
+    a collaborative, asynchronous, and digital learning experience, adapted to the practice and constraints
+    of caregivers. Its educational videos, with cinematographic quality, are accessible to doctors, nurses,
+    care assistants, pharmacists, and chief nurses, by web or mobile. Santé Académie includes more than
+    60 high-quality courses on clinical and regulatory themes customized to their daily practice. These
+    courses are produced by the best experts from prestigious institutions. This new experience is already
+    approved by more than 20 000 professional and health institutions (GHU Paris psychiatrie & neurosciences,
+    Hôpital des Armées …), with a user satisfaction rate of 95%. For more information: www'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: santeacademie
+  x-suggested-slug: santeacademie
+- name: SantéVet
+  url: https://www.santevet.com/
+  description: The first pet insurance
+  sector: consumer
+  sectors:
+  - consumer
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/santevet/
+  founded: '2010'
+  geography: France , Spain , & Belgium
+  exit_note: Acquired by Columna Capital
+  long_description: SantéVet came from the simple observation that dogs and cats are full-fledged members
+    of the family, and whatever the family's budget, they deserve the best possible care. SantéVet's mission
+    is to give everyone access to veterinary care for their pets. The company designed an original and
+    effective insurance offer to meet veterinary expenses related to the pet's illness or accident and
+    it also encourages prevention programs. The company is strongly supported by veterinarians.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: santevet
+  x-suggested-slug: santevet
+- name: Sarus
+  url: https://sarus.tech/
+  description: Accelerates data innovation and collaboration with stronger privacy protection
+  sector: ai-data
+  sectors:
+  - ai-data
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/sarus/
+  founded: '2019'
+  geography: France
+  long_description: 'Maxime Agostini, Nicolas Grislain, and Vincent Lepage have been building machine
+    learning solutions for years, starting with their previous startup that let media companies harness
+    the power of data. At that time companies were collecting an increasing amount of data across all
+    industries and it was a race to see who could hoard the most data in the biggest data lake. Protecting
+    users'' privacy became a greater concern and regulators stepped in and imposed more stringent privacy
+    regulations to protect individuals. This signaled the end of an era: companies would have to mature
+    and the pace of innovation would slow. But the three founders are challenging this perspective, as
+    machine learning and AI models do not really focus on personal information. On the contrary, the goal
+    of machine learning is to find patterns that will persist in the future for users that may not even
+    be born yet. Suc'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sarus
+- name: Seiza
+  url: https://seiza.fr/
+  description: The Recruitment Automation Platform dedicated to frontline workers
+  sector: saas
+  sectors:
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/seiza/
+  founded: '2010'
+  geography: France & US
+  exit_note: Acquired by Adzuna
+  long_description: 'Seiza is the Recruitment Automation Platform 100% dedicated to frontline workers,
+    enabling accelerated hiring. At Seiza, we believe that the key to successful recruitment lies in speed.
+    Our mission is to help recruiters become hyper-responsive by automating the entire recruitment process,
+    while offering the best possible experience to candidates. Our SaaS platform allows for fast and effortless
+    recruitment by: – Obtaining qualified applications in the shortest possible time thanks to the power
+    of social media – Automating all time-consuming tasks such as selection, skills validation, interview
+    scheduling, and document collection, allowing recruiters to spend more time on what matters most:
+    meeting candidates. – Engaging in personalized and real-time 24/7 discussions with candidates using
+    the best communication channels. – Offering the best possible candidate experience by adapting to
+    the'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: seiza
+- name: Selectron
+  url: https://www.selectron.ch/de/index.php
+  description: Control and monitoring system solutions for rail transport
+  sector: unknown
+  sectors: []
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/selectron/
+  founded: '1956'
+  geography: Europe & China
+  exit_note: Acquired by Knorr-Bremse
+  long_description: Selectron offers system solutions for automation in rail vehicles, which is more usually
+    known as the Train Control and Management System – TCMS. The company specializes in control, network,
+    and communication technology, prioritizing systems, components, and applications and their compliance
+    with the Safety Integrity Level (SIL) safety standards. The range of services provided includes freely
+    programmable controllers (PLCs) for vehicle control units, driver's cab displays (HMI), wheel slide
+    protection, remote I/Os (RIOMs), switches, routers, and wireless technologies. Selectron also offers
+    communication networks that comply with networking standards, such as Ethernet, CAN, CANopen, J1939,
+    MVB, or WTB for the control system (TCMS), according to EN 50155 and temperature class Tx.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: selectron
+- name: Sequans
+  url: http://www.sequans.com/
+  description: A semiconductor company specialized in single-mode LTE for broadband and Internet of Things
+  sector: unknown
+  sectors: []
+  status: ipo
+  source: https://www.serena.vc/portfolio-profile/sequans/
+  founded: '2003'
+  geography: France, US & Asia
+  exit_note: NYSE IPO
+  long_description: 'Sequans Communications S.A. (NYSE: SQNS) is a leading developer and provider of 5G
+    and 4G chips and modules for massive, broadband, and critical IoT. For 5G/4G massive IoT applications,
+    Sequans provides a comprehensive product portfolio based on its flagship Monarch LTE-M/NB-IoT and
+    Calliope Cat 1 chip platforms, featuring industry-leading low power consumption, a large set of integrated
+    functionalities, and global deployment capability. For 5G/4G broadband and critical IoT applications,
+    Sequans offers a product portfolio based on its Cassiopeia Cat 4/Cat 6 4G and high-end Taurus 5G chip
+    platforms, optimized for low-cost residential, enterprise, and industrial applications. Founded in
+    2003, Sequans is based in Paris, France with additional offices in the US, UK, Israel, Hong Kong,
+    Singapore, Taiwan, South Korea, and China.'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sequans
+- name: Shadow
+  url: https://shadow.tech/
+  description: This cloud gaming platform allows gamers to play any games on any devices
+  sector: ai-data
+  sectors:
+  - ai-data
+  - gaming
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/shadow/
+  founded: '2015'
+  geography: France, & US (San Francisco)
+  exit_note: Acquired by OVH
+  long_description: 'Shadow was created in 2015 to design and develop the PC of the future, with a simple
+    vision: free users from the constraints of physical hardware by giving them access to a powerful,
+    cloud-based computer. A high-performance PC based entirely in the Cloud, this ground-breaking service
+    provides access to a fully-featured high-end Windows 10 computer, via any internet-enabled device,
+    including a laptop, tablet, and smartphone. Free from hardware failures in its highly secure and local
+    data centers, Shadow puts an end to obsolete devices, thanks to regular, no-cost updates of cutting-edge
+    components. Today, Shadow targets one of the most demanding types of PC users: gamers. Its goal is
+    to meet gamers'' expectations as proof that its technology can be adapted to virtually every PC need
+    and usage. Shadow employs a team of passionate, highly skilled developers, as well as experts in business,
+    la'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shadow
+- name: Silvr
+  url: https://silvr.co/
+  description: Silvr, helping e-commerce founders succeed
+  sector: fintech-insurtech
+  sectors:
+  - fintech-insurtech
+  status: exited
+  source: https://www.serena.vc/portfolio-profile/silvr/
+  founded: '2020'
+  geography: France
+  exit_note: Exited by MBO
+  long_description: Silvr is a French fintech company launched in 2020 by Nima Karimi and Gregory Tappero
+    and is specialized in financing e-businesses. Silvr finances online retailers who don't generally
+    have access to bank loans and who are seeking an alternative to raising equity capital. Silvr's model
+    is based on Revenue Based Financing , a rapidly growing financial breakthrough that allows companies
+    to raise funds faster, repay on a revenue based approach and without any dilutive effects.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: silvr
+- name: Switstack
+  url: https://www.switstack.io/
+  description: Reliable, Scalable, and Secure EMV super connector
+  sector: fintech-insurtech
+  sectors:
+  - fintech-insurtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/switstack/
+  founded: '2023'
+  geography: United States
+  long_description: Switstack was founded by a team of seasoned experts in payment systems to solve the
+    pain points of in-store payment acceptance. They developed Switcloud, a universal connector designed
+    to simplify the integration of PCI-PTS terminals and COTS devices using a modern API framework. Their
+    mission is to open the in-store payment ecosystem, enabling faster, more secure, and scalable solutions
+    for businesses of all sizes. With a focus on compliance and security, Switstack aims to empower retailers
+    and innovators with versatile, cloud-based payment infrastructures.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: switstack
+- name: TextMaster
+  url: https://fr.textmaster.com/
+  description: Professional online translation service that enables businesses to easily expand their
+    international reach
+  sector: saas
+  sectors:
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/textmaster/
+  founded: '2011'
+  geography: France
+  exit_note: Acquired by Technicis
+  long_description: By combining advanced technology with a network of verified expert translators , TextMaster
+    is redefining how businesses handle translation . Clients can access TextMaster online or through
+    a wide range of integrations and partners. More than 10,000 companies in 110 countries trust TextMaster
+    to optimize their translation workflow. TextMaster is a part of the Acolad group since 2018.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: textmaster
+- name: TVTY
+  url: http://www.tvty.tv/
+  description: Actionable TV Intelligence that bridges TV & Digital ad silos to unlock full business potential
+    for advertisers
+  sector: unknown
+  sectors: []
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/tvty/
+  founded: '2009'
+  geography: France, UK & US
+  exit_note: Acquired by Nielsen
+  long_description: TVTY measures and strengthens TV's impact on digital outcomes in real-time to unlock
+    advertisers' full business potential. The solutions allow advertisers and their agencies to measure
+    the actual impact of TV advertising on their audience, website traffic, and online & offline sales.
+    TVTY allows TV advertising to become as measurable as digital. Online advertising can also be aligned
+    with TV audiences in order to maximize the reach, optimize the frequency, and drive the best ROI possible
+    on all digital media channels (Search, Social, Video and Display). The company's unparalleled proprietary
+    TV monitoring technology, paired with household-level audience data, constitutes the backbone of the
+    TVTY software platform. TVTY is a tech company with offices in New York, London, Paris, and Lyon and
+    operates in more than 20 different countries worldwide. TVTY offers its premium advertising solutio
+  slug: tvty
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Underdog
+  url: https://underdog.shop/
+  description: France-based Underdog is reengineering the household appliance industry through circularity—offering
+    expertly reconditioned washing machines, fridges, and ovens at up to 50% off the price of new, delivered
+    and installed across France, and backed by a 2-year warranty. Founded in 2022 in Nantes, Under
+  sector: climate-tech
+  sectors:
+  - climate-tech
+  - marketplace
+  status: active
+  source: https://www.serena.vc/portfolio-profile/underdog/
+  founded: '2022'
+  geography: France
+  long_description: France-based Underdog is reengineering the household appliance industry through circularity—offering
+    expertly reconditioned washing machines, fridges, and ovens at up to 50% off the price of new, delivered
+    and installed across France, and backed by a 2-year warranty. Founded in 2022 in Nantes, Underdog
+    is building France's first industrial-scale reconditioning platform for large appliances—where only
+    3% of discarded units are currently reused. With more than 10,000 appliances already sold and a growing
+    team of 45, the startup is turning an environmental crisis into a high-growth industrial opportunity.
+    By 2027, Underdog aims to operate four reconditioning facilities nationwide and process over 70,000
+    appliances per year , while training 200 specialized technicians across the country.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: underdog
+- name: Uniphore
+  url: https://www.uniphore.com/
+  description: Global leader in Conversational Service Automation
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: active
+  source: https://www.serena.vc/portfolio-profile/uniphore/
+  founded: '2008'
+  geography: US & Asia
+  long_description: The Company's vision is to disrupt an outdated customer service model by bridging
+    the gap between human and machine using voice, AI and automation to ensure that every voice, on every
+    call, is truly heard. Uniphore enables businesses globally to deliver transformational customer service
+    by providing an automation platform where digital agents take over transactional conversations from
+    humans, coach agents during calls, and accurately predict language, emotion and intent. All in real-time.
+    With Conversational Service Automation, enterprises can now engage their customers to effectively
+    build loyalty, improve customer experience and realize operational efficiencies.
+  slug: uniphore
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Uptime
+  url: https://www.uptime.ac/
+  description: The leader in predictive elevator maintenance
+  sector: ai-data
+  sectors:
+  - ai-data
+  status: exited
+  source: https://www.serena.vc/portfolio-profile/uptime/
+  founded: '2016'
+  geography: France
+  exit_note: Exited
+  long_description: Uptime is an elevator maintenance company founded in 2016 by Augustin and Amaury Celier.
+    Its predictive maintenance technology guarantees the best service for building managers. Uptime's
+    digital sensors can be connected to any elevator through 4G, allowing for updates in real-time and
+    the sharing of the necessary information in order to avoid any type of failure. Thanks to this trustworthy
+    technology, technicians can work better.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: uptime
+- name: Vekia
+  url: https://www.vekia.fr/
+  description: Helps retailers and manufacturers optimize their inventory everywhere, for all products
+    and sales channels
+  sector: ai-data
+  sectors:
+  - ai-data
+  - saas
+  status: acquired
+  source: https://www.serena.vc/portfolio-profile/vekia/
+  founded: '2008'
+  geography: France & UK
+  exit_note: Acquired
+  long_description: Vekia SaaS solutions provide predictive analytics for retailers to increase profit
+    margins by placing the right product in the right place, at the right time – across all channels and
+    continents. Its specialized machine learning capabilities have been recognized by Gartner, which identifies
+    the most advanced solutions in retail supply chain planning. As an agile expert in retail , the service's
+    highly accurate forecasts have been called on for almost 10 years by its retailer partners to manage
+    and replenish stock and reduce waste in an evolving market. Thanks to its cutting-edge technology,
+    Vekia's clients are also able to increase their turnover by significantly reducing stock and accurately
+    streamlining their entire supply chain process while taking internal and external factors into consideration.
+    Vekia is trusted by global players in retail including Galeries Lafayette, Leroy Merlin,
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vekia
+- name: Waiv
+  url: https://wearewaiv.com/
+  description: Next-generation precision tests
+  sector: ai-data
+  sectors:
+  - ai-data
+  - healthtech
+  status: active
+  source: https://www.serena.vc/portfolio-profile/waiv/
+  founded: '2026'
+  geography: France
+  long_description: Waiv exists to catalyze precision medicine with clinical-grade, AI-powered tests that
+    accelerate biomarker detection, outcome prediction, and treatment-response assessment across oncology.
+    Built on over seven years of validated medical-AI innovation and one of Europe's largest multi-institutional
+    data networks, Waiv delivers precise, accurate, and fast analyses that support treatment decisions.
+    Waiv collaborates with global pharmaceutical companies, research institutions, diagnostic organizations
+    and healthcare systems to bring scalable precision medicine to patients worldwide
+  in_network: false
+  is_api_provider: false
+  suggested_slug: waiv
+- name: Wazo
+  url: https://wazo.io/
+  description: Unified communication solutions for businesses and telecom service providers
+  sector: saas
+  sectors:
+  - saas
+  status: active
+  source: https://www.serena.vc/portfolio-profile/wazo/
+  founded: '2017'
+  geography: Canada & France w
+  long_description: Wazo is a provider of unified communication solutions for businesses and telecom service
+    providers. Its all-in-one application that includes telephony, video conferencing and instant messaging
+    helps its clients and partners to accelerate their transition to Unified Communication as a Service
+    (UCaaS). Built on an open and API-first platform , Wazo's solutions integrate communication at the
+    core of its clients' and partners' information systems and business tools. Founded in Quebec City
+    in 2017 the company has 30 employees, with operations in Canada and France, and has attracted more
+    than 50 telecom service providers and 30,000 users since launching its solution in late 2019.
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wazo
+- name: Wecasa
+  url: https://www.wecasa.fr/
+  description: The platform for at-home services
+  sector: consumer
+  sectors:
+  - consumer
+  - marketplace
+  status: active
+  source: https://www.serena.vc/portfolio-profile/wecasa/
+  founded: '2016'
+  geography: France www.w
+  long_description: 'Wecasa is a managed marketplace offering quality care services: home haircut, beauty,
+    massage, cleaning, and other services to come. Their mission is to provide time and wellness to active
+    urban users with a particular focus on young mothers. On the other side, they help home-service freelancers
+    to increase their revenue and organize their activity. The experience of the cofounders, their strong
+    tech DNA, and their multi-vertical positioning have made them the #2 and the fastest-growing care
+    platform in France in only 2 years.'
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wecasa

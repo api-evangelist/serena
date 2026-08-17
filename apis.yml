@@ -1,0 +1,133 @@
+aid: serena
+name: Serena
+description: >-
+  Serena is a Paris-based European venture capital firm founded in 2008 by
+  Xavier Lorphelin, Marc Fournier and Philippe Hayat, investing in Europe-based
+  founders from pre-seed through Series A with initial tickets ranging from
+  EUR 100K to EUR 15M. The firm closed its EUR 200M Fund IV in 2026, bringing
+  total assets under management to over EUR 1 billion, and concentrates on
+  applied AI, the modern data stack and AI infrastructure, SaaS, climate tech
+  and the energy transition, commercial open source, blockchain, quantum,
+  consumer innovation and impact. Serena describes itself as "by entrepreneurs
+  for entrepreneurs" and pairs capital with an in-house operating team (Capital
+  Boost), a dedicated data-focused arm in Serena Data Ventures, and the Racine
+  squared impact and deep-tech vehicle. Its published portfolio of 113 companies
+  includes Dataiku, Memo Bank, Descartes Underwriting, Mindee, Probabl, ACINQ,
+  Brigad and Evaneos, alongside exits such as LaFourchette/The Fork to
+  TripAdvisor, AramisAuto to PSA, PrestaShop to MBE Worldwide, iBanFirst to
+  Marlin Equity Partners, Alkemics to Salsify, Hull to MessageBird, Koyeb and
+  Emmi AI to Mistral, Leonardo.ai to Canva, Shadow to OVH, and the NYSE IPO of
+  Sequans. The firm also publishes an unusually
+  deep public research library, including the French AI Report, the Serena
+  European SaaS Benchmark and the Commercial Open Source Software (COSS) Report.
+  This profile tracks Serena's identity and its portfolio graph across the API
+  Evangelist network.
+x-type: venture-capital
+x-category: Venture Capital
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-08-17'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/serena.png
+tags:
+  - Venture Capital
+  - Pre-Seed
+  - Seed
+  - Series A
+  - Early Stage
+  - Artificial Intelligence
+  - Data
+  - SaaS
+  - Climate Tech
+  - Open Source
+  - Fintech
+  - Infrastructure
+  - Impact
+  - Europe
+  - France
+  - Paris
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/serena/refs/heads/main/apis.yml
+created: '2026-08-17'
+modified: '2026-08-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.serena.vc/
+  - type: Portfolio
+    url: https://www.serena.vc/our-portfolio/
+  - type: Portfolio
+    url: portfolio/serena-portfolio.yml
+  - type: Team
+    url: https://www.serena.vc/our-team/
+  - type: Team
+    url: team/serena-team.yml
+  - type: Reports
+    url: https://www.serena.vc/templates-and-reports/
+  - type: Research
+    url: https://www.serena.vc/templates-and-reports/
+  - type: News
+    url: https://www.serena.vc/serena-in-the-press/
+  - type: Sustainability
+    url: https://www.serena.vc/serena-sustainability/
+  - type: Jobs
+    url: https://careers.serena.vc/jobs
+  - type: Jobs
+    url: https://www.serena.vc/talent-club/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/serenaVC
+  - type: Twitter
+    url: https://twitter.com/serenaVC
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/serena-capital
+  - type: Legal
+    url: https://www.serena.vc/legal/
+  - type: Features
+    data:
+      - 'Stage: pre-seed to Series A'
+      - 'Typical check: EUR 100K to EUR 15M initial ticket'
+      - 'AUM: over EUR 1 billion (self-reported, 2026)'
+      - 'Current fund: Serena IV, EUR 200M (closed 2026)'
+      - 'Prior fund: Serena III, EUR 300M'
+      - >-
+        Sectors: applied AI, modern data stack, AI infrastructure, SaaS, climate
+        tech and energy transition, commercial open source, blockchain, quantum,
+        consumer, impact
+      - 'Geography: Europe-based founders, with US expansion support'
+      - 'Founded: 2008'
+      - 'Founders: Xavier Lorphelin, Marc Fournier, Philippe Hayat'
+      - 'HQ: 21 rue Auber, 75009 Paris, France'
+      - 'Positioning: "Allies to global outliers" / "by entrepreneurs for entrepreneurs"'
+      - 'Operating platform: Capital Boost in-house operating team'
+      - 'Affiliated vehicles: Serena Data Ventures, Racine2 (racine2.vc), makesense Fund'
+      - 'Portfolio: 113 companies published on the public portfolio page'
+      - >-
+        Notable portfolio and exits: Dataiku, Memo Bank, Descartes Underwriting,
+        Mindee, Probabl, ACINQ, Leonardo.ai, Brigad, Evaneos, The
+        Fork/LaFourchette, Aramis Auto, Cheerz, iBanFirst, Alkemics, Sequans
+      - >-
+        Public research: The French AI Report, Serena European SaaS Benchmark,
+        Commercial Open Source Software (COSS) Report, Nature Tech VC funding
+        report
+      - 'Contact: +33 1 77 37 30 30'
+    sources:
+      - https://www.serena.vc/
+      - https://www.serena.vc/our-portfolio/
+      - https://www.serena.vc/templates-and-reports/
+      - https://www.vestbee.com/insights/articles/serena-closes-200-m-fund-iv
+    updated: '2026-08-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Serena
+    url: https://www.serena.vc/

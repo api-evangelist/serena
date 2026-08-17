@@ -1,0 +1,101 @@
+generated: '2026-08-17'
+method: searched
+source: https://www.serena.vc/our-team/
+type: Team
+name: Serena Team
+description: >-
+  Partners, investment staff, operating team and affiliated vehicle leads as
+  published on Serena's public team page.
+summary:
+  total: 38
+  partners: 9
+groups:
+  - group: Partners
+    people:
+      - name: Marc Fournier
+        role: CEO & Co-founder
+        profile: https://www.serena.vc/team-profile/marc-fournier/
+      - name: Philippe Hayat
+        role: Managing Partner
+      - name: Xavier Lorphelin
+        role: Managing Partner
+      - name: Sébastien Le Roy
+        role: Partner
+      - name: Olivier Martret
+        role: Partner
+      - name: Paul Moriou
+        role: Partner
+      - name: Stéphanie Nizard
+        role: Partner, Head of Strategic Partnerships and Business Development
+      - name: Matthieu Lavergne
+        role: Partner
+      - name: Margaux Gregoir
+        role: Partner
+  - group: Serena Data Ventures
+    people:
+      - name: Guillaume Decugis
+        role: Partner, Serena Data Ventures
+      - name: Bertrand Diard
+        role: Partner, Serena Data Ventures
+      - name: Floriane de Maupeou
+        role: Principal, Serena Data Ventures
+      - name: Juliette Ast
+        role: Senior Associate, Serena Data Ventures
+  - group: Operating
+    people:
+      - name: David Bitton
+        role: Head of Operating
+      - name: Émilie Benayad
+        role: Operating Partner
+      - name: Olivier Gérardin
+        role: Operating Partner
+      - name: Jérôme Stioui
+        role: Operating Partner
+      - name: Augustin Honorat
+        role: Operating Advisor
+      - name: Amélie Séguret
+        role: Operating Advisor
+  - group: Investment and Finance
+    people:
+      - name: Maxime Furet
+        role: Principal
+      - name: Constance Gontier
+        role: Associate
+      - name: Martin Bayout
+        role: Compliance Manager
+      - name: Mamadou Diallo
+        role: Senior Financial Controller
+      - name: Thibaut Hartog
+        role: Senior Financial Manager
+      - name: Charles Rousset
+        role: General Secretary
+      - name: Isabel Lavoura
+        role: Office Manager
+  - group: People and Community
+    people:
+      - name: Julia Lefebvre
+        role: Human Resources Director
+      - name: Elodie Charles
+        role: Talent & Community Manager
+  - group: Communications and Investor Relations
+    people:
+      - name: Heba Hitti
+        role: Chief Communications Officer
+      - name: Louis Natier
+        role: Senior Investor Relations
+      - name: Charlotte Dahan
+        role: Client Service & Sales Support
+  - group: Sustainability
+    people:
+      - name: Jérémy Rasori
+        role: Head of Sustainability
+  - group: Racine2 and makesense Fund
+    people:
+      - name: Eric Gossart
+        role: Partner, Racine2
+      - name: Margaux Bussiere
+        role: Principal, makesense Fund; Principal, Racine2
+      - name: Léa Zaslavsky
+        role: Co-founder, makesense Fund; Partner, Racine2
+      - name: Alix Trébaol
+        role: Senior Associate, Racine2
