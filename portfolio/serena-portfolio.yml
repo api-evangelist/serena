@@ -53,9 +53,12 @@ companies:
     allows the building industry to reach the most ambitious energy and environmental standards. The ACCENTA.Design
     and ACCENTA.AI systems optimize the efficiency and cost of inter-seasonal heat storage, making the
     solution highly competitive with other low-carbon heating and cooling technologies.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: accenta
+  stub_created: true
+  slug: accenta
+  matched_by: stub
 - name: Acheel
   url: https://www.acheel.com/
   description: The first French generalist and digital insurance company
@@ -69,9 +72,12 @@ companies:
   long_description: Acheel aims to make insurance easy for users thanks to new technologies, and to provide
     very competitive and tailor-made offers to customers. The service is available on desktop, tablet,
     or mobile and delivers various products such as Home Insurance, Health insurance, or Pet Insurance.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: acheel
+  stub_created: true
+  slug: acheel
+  matched_by: stub
 - name: Acinq
   url: https://acinq.co/
   description: One of the leading companies of Bitcoin scalability
@@ -86,9 +92,12 @@ companies:
   long_description: 'ACINQ is one of the leading companies building the Lightning Network, a scalable
     instant payment network for the Bitcoin blockchain. The solution aims at tackling one of the most
     pressing challenges for Bitcoin : its ability to scale to VISA-level transactions throughout.'
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: acinq
+  stub_created: true
+  slug: acinq
+  matched_by: stub
 - name: Alkemics
   url: https://www.alkemics.com/
   description: Connects brands and retailers through smarter product data for today's omni-channel shoppers
@@ -134,9 +143,12 @@ companies:
     needs, or complaints, enabling re-engagement as well as the measurement of best & worst practices
     of online to offline customer experiences. The service captures the call content thanks to real-time
     in-depth analysis of the conversation, through signal analysis, vocal recognition, and semantics.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: allo-media
+  stub_created: true
+  slug: allo-media
+  matched_by: stub
 - name: AMI Labs
   url: https://amilabs.xyz/
   description: Advanced Machine Intelligence (AMI) is enabling the next AI revolution - built on foundational
@@ -183,9 +195,12 @@ companies:
     This one-stop-shop is revolutionizing the way people buy used cars. AramisAuto''s proprietary digital
     platform and car refurbishment factory provide clients with the guarantees they expect. Already #1
     in France, they have expanded into Spain and Belgium thanks to their partnership with the PSA Group.'
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: aramisauto
+  stub_created: true
+  slug: aramisauto
+  matched_by: stub
 - name: Arlettie
   url: https://www.arlettie.com/
   description: Private showroom experts
@@ -199,9 +214,12 @@ companies:
   exit_note: Exit by MBO
   long_description: Arlettie organizes the most exclusive sample sales for luxury and fashion brands in
     Paris and London.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: arlettie
+  stub_created: true
+  slug: arlettie
+  matched_by: stub
 - name: Bestmile
   url: https://bestmile.com/
   description: The first cloud platform for the intelligent operation and optimization of autonomous mobility
@@ -242,9 +260,12 @@ companies:
     buy, sell, earn and spend bitcoin. Bitstack uses the Bitcoin protocol – the first open, global, uncensored
     currency network that allows users to send and receive money anywhere, instantly, at almost no cost,
     and operates without any central entity that can devalue its currency.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: bitstack
+  stub_created: true
+  slug: bitstack
+  matched_by: stub
 - name: Bonitasoft
   url: https://www.bonitasoft.com/
   description: The open source Business Process Management-based application development platform
@@ -262,9 +283,12 @@ companies:
     applications using best-of-breed DevOps methodologies and tools. With an ecosystem of more than 150,000
     members and customers in 75+ countries, Bonitasoft provides the most widely used open-source and low-code
     platform for business process automation.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: bonitasoft
+  stub_created: true
+  slug: bonitasoft
+  matched_by: stub
 - name: Boxy (ex-Storelift)
   url: https://www.getboxy.co/
   description: Boxy's mission is to deliver uncompromising convenience through every experience.
@@ -279,10 +303,13 @@ companies:
     into any environment. All we need is a small piece of land and a power source. We work hard behind
     the scenes using state-of-the-art technology to ensure our customers' experience is as seamless and
     enjoyable as possible.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: getboxy
   x-suggested-slug: getboxy
+  stub_created: true
+  slug: getboxy
+  matched_by: stub
 - name: Brigad
   url: https://brigad.co/
   description: Enables self-employed professionals and businesses in Hospitality and Healthcare to connect
@@ -320,9 +347,12 @@ companies:
     50% of crop-related emissions, which can be halved at no cost by adopting proven sustainable irrigation
     techniques. Their satellite-verified carbon credits unlock additional revenues for sustainable rice-farmers,
     while providing a new way for corporates to reach their net-zero goals.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: carbonfarm
+  stub_created: true
+  slug: carbonfarm
+  matched_by: stub
 - name: Cheerz
   url: http://www.cheerz.com/
   description: Makes printing memorable moments from a mobile phone easy
@@ -338,9 +368,12 @@ companies:
     every day on our mobiles! Because today people love to share, Cheerz created tools that give access
     to photos from Facebook, Instagram, Flickr, Dropbox… It's a website, it's a mobile app, it's an iPad
     app and it's from Paris.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: cheerz
+  stub_created: true
+  slug: cheerz
+  matched_by: stub
 - name: Clevergy
   url: https://clever.gy/fr/
   description: Smarter energy for a sustainable future
@@ -356,9 +389,12 @@ companies:
     relationships. Clevergy's developments allow end users to control their energy consumption and production
     and receive savings tips, while energy companies gain the ability to monitor their customers' consumption,
     support energy efficiency and unlock new opportunities for products and services.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: clevergy
+  stub_created: true
+  slug: clevergy
+  matched_by: stub
 - name: Cloud Ex Machina
   url: https://www.cloudexmachina.io/
   description: Reshaping cloud financial management
@@ -378,10 +414,13 @@ companies:
     ensures actionable insights are delivered where they are most needed. By streamlining cloud management,
     Cloud ex Machina enables organizations to improve efficiency, reduce costs, and support sustainable
     cloud practices.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: cloudexmachina
   x-suggested-slug: cloudexmachina
+  stub_created: true
+  slug: cloudexmachina
+  matched_by: stub
 - name: Coachclub
   url: http://www.coachclub.com/hp/
   description: The first online service to provide tailor-made sport and fitness training videos
@@ -396,9 +435,12 @@ companies:
   long_description: CoachClub is the first video coaching service dedicated to gym and nutrition. According
     to user information (goals, physical abilities, health, availability, etc.), the service can set up
     a personalized program, accessible from everywhere via the internet or TV.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: coachclub
+  stub_created: true
+  slug: coachclub
+  matched_by: stub
 - name: Cometh
   url: https://www.cometh.io/
   description: Blockchain games with benefits.
@@ -414,9 +456,12 @@ companies:
     through more resilient game designs and innovative narratives. In addition, Cometh offers blockchain
     white label solutions and integration expertise to game studios and brands alike to deploy their blockchain
     projects.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: cometh
+  stub_created: true
+  slug: cometh
+  matched_by: stub
 - name: Coorpacademy
   url: https://www.coorpacademy.com/
   description: Corporate online training with an innovative, user-centric and enjoyable digital learning
@@ -437,9 +482,12 @@ companies:
     latest generation instructional design backed by Ecole Polytechnique Fédérale de Lausanne Innovation
     labs, making corporate learning more fun, flexible and collaborative, truly centered on the end-user,
     the learner. Coorpacademy is part of the EdTech France association.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: coorpacademy
+  stub_created: true
+  slug: coorpacademy
+  matched_by: stub
 - name: CybelAngel
   url: https://www.cybelangel.com/
   description: CybelAngel explores the deep web to protect major firms from costly data leaks.
@@ -456,9 +504,12 @@ companies:
     artificial intelligence and proven machine learning capabilities to monitor, detect, and manage digital
     risk across all layers of the Internet, CybelAngel helps organizations protect their intellectual
     property, brand, and reputation. Every day, CybelAngel detects data leaks that others don't.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: cybelangel
+  stub_created: true
+  slug: cybelangel
+  matched_by: stub
 - name: Darewise
   url: https://www.darewise.com/
   description: Interactive and socially-connected experiences that go beyond entertainment
@@ -477,9 +528,12 @@ companies:
     brings together the best talent from all creative industries, from AAA and indie games to e-commerce
     and film, to create games that are about the richness of existence, the thrill of meeting new players,
     and the fulfillment of making new connections.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: darewise
+  stub_created: true
+  slug: darewise
+  matched_by: stub
 - name: Dataiku
   url: http://www.dataiku.com/
   description: Leader in Enterprise AI, Dataiku reached unicorn status in 2019, four years after our investment
@@ -573,10 +627,13 @@ companies:
     to care in underserved regions. By rethinking the heart exam process, DESKi aims to combat heart disease—the
     world's leading cause of death—through smart, scalable tools that make precision cardiology more accessible
     to all.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: deski
   x-suggested-slug: deski
+  stub_created: true
+  slug: deski
+  matched_by: stub
 - name: Dotfile
   url: https://www.dotfile.com/
   description: Building a trust infrastructure for the internet economy
@@ -593,9 +650,12 @@ companies:
     and fraud detections APIs, in a single platform. Regulated businesses use Dotfile to automate onboarding
     decisions, boost conversion and lower costs. With Dotfile, they can scale their compliance operations
     or expand to new markets with different regulatory frameworks faster.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: dotfile
+  stub_created: true
+  slug: dotfile
+  matched_by: stub
 - name: Edgee
   url: https://www.edgee.cloud/
   description: Edge computing, one of the fundamental foundations of the next phase of the Internet
@@ -615,9 +675,12 @@ companies:
     developers to build high-performance, privacy-compliant applications. Edgee isn''t just about technology;
     it''s about creating a collaborative ecosystem that pushes the boundaries of what''s possible at the
     edge.'
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: edgee
+  stub_created: true
+  slug: edgee
+  matched_by: stub
 - name: Educ-up
   url: https://educ-up.fr/
   description: Promoting Education for All
@@ -637,9 +700,12 @@ companies:
     with Domissori, an educational childcare service that facilitates educational continuity and supports
     both the child and their parents. Accessible to all families, including those with moderate or precarious
     incomes, its mission is to promote curiosity, autonomy, and confidence in children. Its second project
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: educ-up
+  stub_created: true
+  slug: educ-up
+  matched_by: stub
 - name: Electra
   url: https://www.go-electra.com/
   description: Electra reinvents electric car charging with a network of ultra-fast stations and a simple
@@ -659,11 +725,14 @@ companies:
     was founded by three experienced entrepreneurs with a passion for electric mobility: Aurélien de Meaux
     – CEO, Augustin Derville – CDO, and Julien Belliato – COO. Their objective is to set up 1,000 stations
     by 2030.'
-  in_network: false
+  in_network: true
   is_api_provider: false
   x-match: none
   x-suggested-slug: go-electra
   suggested_slug: go-electra
+  stub_created: true
+  slug: go-electra
+  matched_by: stub
 - name: Elium
   url: https://www.elium.com/
   description: AI-Powered knowledge management platform for all company information
@@ -681,9 +750,12 @@ companies:
     sprawl, Elium transforms an organization's knowledge base into a true “AI Brain” or knowledge engine.
     Employees instantly find the answers they need, positioning Elium as the central driver of their collective
     intelligence, not just another forgotten folder gathering digital dust.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: elium
+  stub_created: true
+  slug: elium
+  matched_by: stub
 - name: Emmi AI
   url: https://www.emmi.ai/
   description: Inspired by Physics, Driven by AI
@@ -745,9 +817,12 @@ companies:
     – from the fieldworker to the sub-contractor, main contractor and client – with the data they need
     to drive accurate decision making. The platform tackles the industry-wide issues of low margins and
     poor profit
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: finalcad
+  stub_created: true
+  slug: finalcad
+  matched_by: stub
 - name: Fipto
   url: https://fipto.com
   description: Crypto and Fiat Currencies, Unified
@@ -766,9 +841,12 @@ companies:
     technology, Fipto empowers its users with a compliant-proof platform for fast, safe, and 24/7 cross-border
     payments. Fipto is a registered Digital Asset Service Provider (DASP) by the French Financial Markets
     Authority (AMF). Learn more about Fipto''s comprehensive range of solutions at'
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: fipto
+  stub_created: true
+  slug: fipto
+  matched_by: stub
 - name: Formality
   url: https://www.formality.com/
   description: Managing your contracts becomes a simple formality!
@@ -825,9 +903,12 @@ companies:
     2024 also integrating the impact of companies on biodiversity (a first in France)—and a life insurance
     plan recognized by Reclaim Finance as the least exposed to fossil fuels, Goodvest ensures both transparency
     and positive impact. Since its creation, its solutions have helped avoid more than 100,000 tons of '
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: goodvest
+  stub_created: true
+  slug: goodvest
+  matched_by: stub
 - name: H
   url: https://hcompany.ai/
   description: AI action models for task automation & decision-making
@@ -864,9 +945,12 @@ companies:
     with buyers to reduce the risk of post-reservation cancellation and thus accelerate their sales cycle.
     Within French Proptech, the Habiteo team works hand-in-hand with the major players in real estate
     and public administration, to jointly invent the “Smart City” of tomorrow.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: habiteo
+  stub_created: true
+  slug: habiteo
+  matched_by: stub
 - name: Helios
   url: https://www.helios.do/
   description: The sustainable neobank committed to limiting global warming
@@ -883,9 +967,12 @@ companies:
     money towards environmental investment projects. Helios was created between Paris and Nantes by Maeva
     Courtois and Julia Ménayas in march 2020. Backed by Solarisbank's banking license, the start-up offers
     a payment card, all daily banking services and a dedicated advisor, all accessible from a mobile application.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: helios
+  stub_created: true
+  slug: helios
+  matched_by: stub
 - name: Heuritech
   url: http://heuritech.com/
   description: The first AI-based visual recognition tool for the fashion world.
@@ -907,9 +994,12 @@ companies:
     Luxurynsight Group . This strategic operation marks a major stepstone to provide a more complete AI
     offer and fulfill its ambition to become the global data intelligence provider for decision makers
     in the luxury, fashi'
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: heuritech
+  stub_created: true
+  slug: heuritech
+  matched_by: stub
 - name: Hull
   url: https://www.hull.io/
   description: One source of truth, synchronized everywhere
@@ -956,9 +1046,12 @@ companies:
     (HQ), Amsterdam, Antwerp, Berlin, Brussels, and Dijon and it has 150 employees. Having already won
     several awards, iBanFirst was named “Fintech scale-up” of the year 2018 in Belgium and is part of
     Deloitte's recognized “Technology Fast 50.”
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: ibanfirst
+  stub_created: true
+  slug: ibanfirst
+  matched_by: stub
 - name: iContainers
   url: https://www.icontainers.com/
   description: Europe's leading real-time booking platform for container transport by land and sea
@@ -977,9 +1070,12 @@ companies:
     than 250,000 ocean trade routes to more than 300 sites in the US, Europe, Asia, Australia, Latin America,
     and Africa. Founded in 2007 by Iván Tintore and Carlos Hernández, iContainers is headquartered in
     Miami with offices in Barcelona, Rotterdam, Santo Domingo, and Ahmedabad (India).
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: icontainers
+  stub_created: true
+  slug: icontainers
+  matched_by: stub
 - name: Implicity
   url: https://www.implicity.com/
   description: The French leader in remote monitoring of implantable cardiac prostheses
@@ -998,9 +1094,12 @@ companies:
     and Microport) via a single harmonized platform. Implicity aims to simplify and optimize the remote
     monitoring of connected cardiac implants in order to improve the quality of care provided , in particular
     by using cutting-edge artificial intelligence.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: implicity
+  stub_created: true
+  slug: implicity
+  matched_by: stub
 - name: Inato
   url: http://www.inato.com/
   description: Matches the right sites to the right clinical research studies, globally
@@ -1037,10 +1136,13 @@ companies:
     friends can easily play together. It is simpler than organizing a discordant group but more interactive
     than just streaming. Jam.gg was selected by TechCrunch in their top 12 favorite startups of the YC20
     batch.
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: jam-gg
   x-suggested-slug: jam-gg
+  stub_created: true
+  slug: jam-gg
+  matched_by: stub
 - name: Jimmy
   url: https://www.jimmy-energy.eu/
   description: Jimmy massively decarbonizes industrial process heat based on nuclear fission.
@@ -1058,9 +1160,12 @@ companies:
     fission, using a proven and intrinsically safe technology (High Temperature Reactor). The first generator
     will be commissioned in 2026 at a first industrial client''s plant, while the company has already
     achieved major design, licensing, and industrial milestones.'
-  in_network: false
+  in_network: true
   is_api_provider: false
   suggested_slug: jimmy
+  stub_created: true
+  slug: jimmy
+  matched_by: stub
 - name: Joy (ex-Privateaser)
   url: https://www.joy.io/
   description: An online booking platform for events
