@@ -1,0 +1,1143 @@
+{
+ "vc": "serena",
+ "counts": {
+  "programmable": 53,
+  "undisclosed": 19,
+  "none": 38,
+  "unmeasured": 3
+ },
+ "measured": 110,
+ "programmable_rate_pct": 48.2,
+ "companies": [
+  {
+   "name": "8Sec",
+   "slug": "8sec",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "8SEC closed in October 2025 after ten years and roughly 90 mobile games, and its own site is gone with it \u2014 8sec.games now resolves to an OVHcloud \"Site not installed\" 404 behind a certificate issued to cluster103.hosting.ovh.net, so a verifying client cannot even complete the TLS handshake; only a leftover Netlify deploy of the marketing site still serves 8SEC content, and it answers every path with the same HTML homepage.",
+   "sector": "consumer",
+   "status": "active",
+   "url": "https://www.8sec.games/"
+  },
+  {
+   "name": "Accenta",
+   "slug": "accenta",
+   "bucket": "undisclosed",
+   "why": "gated:customer-only-docs",
+   "detail": "Accenta's effiPilot API reference is real and is Accenta's own \u2014 the login application at app.accenta.ai explicitly offers redirectTo=api%2Fdoc and search engines still index the page title \"documentation API effiPilot 2.16.3\" \u2014 but the /api/doc route is only served to an authenticated tenant session, so an anonymous GET returns {\"message\":\"Route not found\"} and no machine-readable contract of any kind (OpenAPI, GraphQL, MCP, AsyncAPI, agent card, or any /.well-known/ document) is reachable on www.accenta.ai, app.accenta.ai or demo.accenta.ai.",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.accenta.ai/"
+  },
+  {
+   "name": "Acheel",
+   "slug": "acheel",
+   "bucket": "undisclosed",
+   "why": "gated:sales-gate",
+   "detail": "Acheel's own partner FAQ answered \"Avez-vous des APIs ?\" with \"nous mettons \u00e0 votre disposition nos APIs\", but that partner site (partners.acheel.com) now 301s to the Charlee broker marketing brand and the only route to the API is the broker partnership form at charlee.fr/registration \u2014 no reference, no base URL and no spec was ever published, and the broker console back.charlee.fr is a noindex login.",
+   "sector": "fintech-insurtech",
+   "status": "active",
+   "url": "https://www.acheel.com/"
+  },
+  {
+   "name": "Acinq",
+   "slug": "acinq",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "blockchain",
+   "status": "active",
+   "url": "https://acinq.co/"
+  },
+  {
+   "name": "Alkemics",
+   "slug": "alkemics",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "Alkemics was fully absorbed by Salsify in October 2020 \u2014 alkemics.com and docs.alkemics.com now answer only HTTP 301 to salsify.com and docs.supplierxm.salsify.com, and api.alkemics.com returns NXDOMAIN, so there is no Alkemics-owned host left to serve a contract.",
+   "sector": "ai-data",
+   "status": "acquired",
+   "url": "https://www.alkemics.com/"
+  },
+  {
+   "name": "Allo-Media",
+   "slug": "allo-media",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "exited",
+   "url": "https://www.allo-media.net/"
+  },
+  {
+   "name": "AMI Labs",
+   "slug": "ami-labs",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "AMI Labs is a pre-product research lab whose entire web presence is two pages \u2014 its own sitemap.xml declares exactly https://amilabs.xyz and https://amilabs.xyz/updates \u2014 with no docs, no developer host in DNS, and a single March 2026 launch post that names no API, model release, or open-source repository.",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://amilabs.xyz/"
+  },
+  {
+   "name": "AramisAuto",
+   "slug": "aramisauto",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "consumer",
+   "status": "acquired",
+   "url": "https://www.aramisauto.com/"
+  },
+  {
+   "name": "Arlettie",
+   "slug": "arlettie",
+   "bucket": "programmable",
+   "why": "contract-and-agent-surface",
+   "detail": "",
+   "sector": "consumer",
+   "status": "exited",
+   "url": "https://www.arlettie.com/"
+  },
+  {
+   "name": "Bestmile",
+   "slug": "bestmile",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "bestmile.com refuses HTTPS entirely and its HTTP/80 root serves a Gandi.net registrar parking page; api., docs., developer., platform. and app.bestmile.com are NXDOMAIN, and the surviving github.com/Bestmile org holds only forks of third-party OSS (secor, alpakka, chimney, squants) with no spec or SDK, because ZF Friedrichshafen absorbed the technology into SCALAR in November 2021.",
+   "sector": "ai-data",
+   "status": "acquired",
+   "url": "https://bestmile.com/"
+  },
+  {
+   "name": "Bitstack",
+   "slug": "bitstack",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Bitstack ships only a consumer iOS/Android Bitcoin savings app; api.bitstack-app.com resolves but answers a bare empty-bodied 404 on every path including its own root, and none of the 1,687 URLs in the published sitemap is a developer, docs, or API page.",
+   "sector": "blockchain",
+   "status": "active",
+   "url": "https://www.bitstack-app.com/"
+  },
+  {
+   "name": "Bonitasoft",
+   "slug": "bonitasoft",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "saas",
+   "status": "acquired",
+   "url": "https://www.bonitasoft.com/"
+  },
+  {
+   "name": "Boxy (ex-Storelift)",
+   "slug": "getboxy",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "SAS Storelift, the company behind the Boxy autonomous-store brand, entered liquidation judiciaire on 2024-11-06 and its getboxy.co domain is now parked on ParkingCrew nameservers answering HTTP 410 Gone on every path, so there is no surface left to profile and none was ever published.",
+   "sector": "consumer",
+   "status": "active",
+   "url": "https://www.getboxy.co/"
+  },
+  {
+   "name": "Brigad",
+   "slug": "brigad",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "marketplace",
+   "status": "active",
+   "url": "https://brigad.co/"
+  },
+  {
+   "name": "CarbonFarm",
+   "slug": "carbonfarm",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "climate-tech",
+   "status": "active",
+   "url": "https://www.carbonfarm.tech"
+  },
+  {
+   "name": "Cheerz",
+   "slug": "cheerz",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Cheerz is a consumer photo-printing retailer with no developer surface of any kind \u2014 the only HTTP 200 on any API-shaped path is www.cheerz.com/api-docs, which is the Google-OAuth sign-in screen for the internal \"Cheerz Admin\" back office rather than an API reference, no api. or developer. or docs. subdomain of cheerz.com resolves in DNS, the 418-URL English and 464-URL French sitemaps contain nothing but products, categories, collections, blog posts and four legal pages, robots.txt Disallows the /*/api/* private JSON backend its own SPA and mobile apps call, and no first-party client library exists on npm, PyPI, RubyGems or Packagist.",
+   "sector": "consumer",
+   "status": "acquired",
+   "url": "http://www.cheerz.com/"
+  },
+  {
+   "name": "Clevergy",
+   "slug": "clevergy",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "climate-tech",
+   "status": "active",
+   "url": "https://clever.gy/fr/"
+  },
+  {
+   "name": "Cloud Ex Machina",
+   "slug": "cloudexmachina",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Cloud ex Machina is a real software company that ships a per-tenant SaaS product (Dex) and genuinely maintains public Docusaurus documentation, but it operates no developer program at all \u2014 no API reference among the 23 pages in its docs sitemap, no api.cloudexmachina.io host in DNS, no MCP server, no agent card, and no client SDK in any language registry; its only developer-facing distributables are AWS onboarding IaC (a Terraform Registry module at v0.6.0, a CloudFormation template, and a GitHub Action).",
+   "sector": "infrastructure",
+   "status": "active",
+   "url": "https://www.cloudexmachina.io/"
+  },
+  {
+   "name": "Coachclub",
+   "slug": "coachclub",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "CoachClub ships a consumer fitness-video subscription and nothing else \u2014 the member application at mon.coachclub.com is a hosted Kajabi tenant (CNAME endpoint.mykajabi.com) that 404s every spec and .well-known path, and the only host named api.coachclub.com is a bare nginx catch-all on EC2 that answers 200 with a zero-byte body for every path, including a nonsense control path, so it serves no contract at all.",
+   "sector": "consumer",
+   "status": "exited",
+   "url": "http://www.coachclub.com/hp/"
+  },
+  {
+   "name": "Cometh",
+   "slug": "cometh",
+   "bucket": "undisclosed",
+   "why": "api-listed-no-contract",
+   "detail": "",
+   "sector": "blockchain",
+   "status": "active",
+   "url": "https://www.cometh.io/"
+  },
+  {
+   "name": "Coorpacademy",
+   "slug": "coorpacademy",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "saas",
+   "status": "acquired",
+   "url": "https://www.coorpacademy.com/"
+  },
+  {
+   "name": "CybelAngel",
+   "slug": "cybelangel",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.cybelangel.com/"
+  },
+  {
+   "name": "Darewise",
+   "slug": "darewise",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Darewise ships a consumer game and nothing else \u2014 the legacy brand host www.darewise.com now refuses TCP on both 443 and 80 (its last Internet Archive capture serving HTTP 200 is 2025-04-21), the live successor host www.lifebeyondstudios.com returns a real origin 404 for /llms.txt and for every /.well-known/* path while answering all HTML and API-shaped paths with a Cloudflare \"Just a moment...\" 403 interstitial, no api./docs./developer. subdomain resolves in DNS on either domain, and the studio's only first-party developer artifact anywhere is an unmaintained Apache-2.0 AsyncAPI generator template for Unreal Engine on npm (v0.1.3, 2023-12-11) \u2014 a code generator, not an API.",
+   "sector": "blockchain",
+   "status": "acquired",
+   "url": "https://www.darewise.com/"
+  },
+  {
+   "name": "Dataiku",
+   "slug": "dataiku",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "http://www.dataiku.com/"
+  },
+  {
+   "name": "DeepIP",
+   "slug": "deepip",
+   "bucket": "programmable",
+   "why": "agent-surface-only",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.deepip.ai/"
+  },
+  {
+   "name": "Descartes Underwriting",
+   "slug": "descartes-underwriting",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Descartes Underwriting distributes bespoke parametric cover through corporate brokers and ships no public developer surface at all \u2014 /api, /docs, /developers, /openapi.json and every /.well-known/ path on descartesunderwriting.com return HTTP 404, no api./developer./docs./portal./ broker./app. subdomain resolves in DNS, and the company's seven public GitHub repositories are hiring technical tests and internal training rather than client SDKs.",
+   "sector": "climate-tech",
+   "status": "active",
+   "url": "https://descartesunderwriting.com/"
+  },
+  {
+   "name": "DESKi",
+   "slug": "deski",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "DESKi ships regulated end-user software, not a platform: HeartFocus is an FDA-cleared iPhone/iPad app whose only machine-facing interface is a DICOM push to a PACS the customer configures in-app, and the DICOM conformance statement that would describe it is available only by emailing support@deski.ai \u2014 /openapi.json, /graphql, /llms.txt and every /.well-known/* path return a real 404 on www.heartfocus.ai and deski.ai, api./developer./link.heartfocus.ai do not resolve in DNS, docs.heartfocus.ai is an S3 bucket returning 403 AccessDenied, and portal.heartfocus.ai is a licence-management SPA that answers 200 with the same 467-byte HTML shell for every path probed.",
+   "sector": "healthtech",
+   "status": "active",
+   "url": "http://www.heartfocus.ai"
+  },
+  {
+   "name": "Dotfile",
+   "slug": "dotfile",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "saas",
+   "status": "active",
+   "url": "https://www.dotfile.com/"
+  },
+  {
+   "name": "Edgee",
+   "slug": "edgee",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.edgee.cloud/"
+  },
+  {
+   "name": "Educ-up",
+   "slug": "educ-up",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "The only software Educ-up operates is an end-user Moodle LMS at formation.edacademy.fr for enrolled Edacademy learners \u2014 its stock Moodle web-service endpoint answers 200 with errorcode \"invalidtoken\" but is Moodle's contract, token-gated and undocumented by Educ-up \u2014 while the corporate domain educ-up.fr now 302s to an IONOS parked page that returns the same 336-byte body for every path including nonsense ones, and the Domissori (WordPress) and Edacademy (Webflow) marketing sites carry no developer portal, no API reference and no spec at any probed location.",
+   "sector": "edtech",
+   "status": "active",
+   "url": "https://educ-up.fr/"
+  },
+  {
+   "name": "Electra",
+   "slug": "go-electra",
+   "bucket": "undisclosed",
+   "why": "api-listed-no-contract",
+   "detail": "",
+   "sector": "climate-tech",
+   "status": "active",
+   "url": "https://www.go-electra.com/"
+  },
+  {
+   "name": "Elium",
+   "slug": "elium",
+   "bucket": "programmable",
+   "why": "contract-and-agent-surface",
+   "detail": "",
+   "sector": "saas",
+   "status": "exited",
+   "url": "https://www.elium.com/"
+  },
+  {
+   "name": "Emmi AI",
+   "slug": "emmi-ai",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Emmi AI ships an open-source Python framework (emmiai-noether) and a CLI that run on the customer's own CPU/GPU/SLURM hardware - there is no hosted service and no API: no api./app./platform./console./mcp. host resolves under emmi.ai, and every contract-discovery probe (openapi.json, agent-card.json, agent.json, every /.well-known/ path on both emmi.ai and noether-docs.emmi.ai) returned 404 or NXDOMAIN.",
+   "sector": "ai-data",
+   "status": "acquired",
+   "url": "https://www.emmi.ai/"
+  },
+  {
+   "name": "Evaneos",
+   "slug": "evaneos",
+   "bucket": "undisclosed",
+   "why": "gated:sales-gate",
+   "detail": "The only API Evaneos markets is a partner/affiliate product-feed API offered on request via partner.evaneos.net (\"we can provide an API with multiple product feed options\"), with no reference, no spec and no developer portal \u2014 developer.evaneos.com and docs.evaneos.com do not resolve, and www.evaneos.com/openapi.json returns 404.",
+   "sector": "consumer",
+   "status": "active",
+   "url": "http://www.evaneos.com/"
+  },
+  {
+   "name": "Finalcad",
+   "slug": "finalcad",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "saas",
+   "status": "acquired",
+   "url": "http://www.finalcad.com/"
+  },
+  {
+   "name": "Fipto",
+   "slug": "fipto",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "blockchain",
+   "status": "active",
+   "url": "https://fipto.com"
+  },
+  {
+   "name": "Formality",
+   "slug": "formality",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.formality.com/"
+  },
+  {
+   "name": "Full Speed Automation",
+   "slug": "vitesse",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Vitesse ships its physical-AI automation platform only as an end-user product \u2014 a login-gated React application at app.vitesse.dev plus on-premise edge controllers \u2014 and its eight-URL sitemap contains no docs, API, developer or pricing page at all; the two product backends found in the app bundle (fleet.vitesse.dev, conversations.vitesse.dev) publish no specification and return the identical status for a nonsense control path as for every real one, so no developer API is marketed, documented, or provably present.",
+   "sector": "unknown",
+   "status": "active",
+   "url": "https://www.vitesseautomation.com/"
+  },
+  {
+   "name": "Goodvest",
+   "slug": "goodvest",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Goodvest ships only end-user web and mobile clients; its private gunicorn backend at api.goodvest.fr returns 404 at the root and on every OpenAPI, GraphQL, MCP and /.well-known/ path probed, and the 802-URL public sitemap contains no developer, reference or API page at all.",
+   "sector": "climate-tech",
+   "status": "active",
+   "url": "https://www.goodvest.fr/"
+  },
+  {
+   "name": "H",
+   "slug": "h-company",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "unknown",
+   "status": "active",
+   "url": "https://hcompany.ai/"
+  },
+  {
+   "name": "Habiteo",
+   "slug": "habiteo",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "saas",
+   "status": "acquired",
+   "url": "https://www.habiteo.com/"
+  },
+  {
+   "name": "Helios",
+   "slug": "helios",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "helios is a consumer neobank that ships only an end-user mobile and web banking app \u2014 it publishes no developer portal, API reference, SDK or webhook surface, and as a payment services agent of OKALI (REGAFI 731225) it exposes no PSD2 dedicated interface of its own; /openapi.json, /graphql, /mcp, /api and every /.well-known/ path return a real 404 on www.helios.do (a nonsense control path also 404s, so these are not soft-404s), and certificate-transparency enumeration of *.helios.do lists app, backoffice, blog, email, go, help and meta but no api.* host of any kind.",
+   "sector": "climate-tech",
+   "status": "acquired",
+   "url": "https://www.helios.do/"
+  },
+  {
+   "name": "Heuritech",
+   "slug": "heuritech",
+   "bucket": "programmable",
+   "why": "contract-and-agent-surface",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "http://heuritech.com/"
+  },
+  {
+   "name": "Hull",
+   "slug": "hull",
+   "bucket": "programmable",
+   "why": "contract-and-agent-surface",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "acquired",
+   "url": "https://www.hull.io/"
+  },
+  {
+   "name": "iBanFirst",
+   "slug": "ibanfirst",
+   "bucket": "programmable",
+   "why": "contract-and-agent-surface",
+   "detail": "",
+   "sector": "fintech-insurtech",
+   "status": "acquired",
+   "url": "https://www.ibanfirst.com/"
+  },
+  {
+   "name": "iContainers",
+   "slug": "icontainers",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "marketplace",
+   "status": "acquired",
+   "url": "https://www.icontainers.com/"
+  },
+  {
+   "name": "Implicity",
+   "slug": "implicity",
+   "bucket": "undisclosed",
+   "why": "gated:sales-gate",
+   "detail": "Implicity's IT-teams page advertises a \"comprehensive API and integration framework for seamless data exchange with core hospital systems\" but publishes no reference for it \u2014 the only route to it is the Request-a-Demo form, and the live API host api.implicity.com answers a bare text/plain \"Not Found\" on all 21 paths probed, including /openapi.json, /graphql, /metadata and /.well-known/smart-configuration.",
+   "sector": "healthtech",
+   "status": "active",
+   "url": "https://www.implicity.com/"
+  },
+  {
+   "name": "Inato",
+   "slug": "inato",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Inato ships software only as an end-user web application at marketplace.inato.com; api.inato.com, developer.inato.com and docs.inato.com have no DNS record at all, and the only machine-to-machine documentation on its support host describes the calls Inato makes INTO CRIO's and eClinPro's APIs rather than any API of its own.",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "http://www.inato.com/"
+  },
+  {
+   "name": "Jam.gg",
+   "slug": "jam-gg",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "Jam.gg never shipped an HTTP API, and the company is now listed Inactive by Y Combinator \u2014 its own web property cannot complete a TLS handshake on either host (jam.gg answers the ClientHello with TLS alert 80 internal_error from Netlify/AWS Global Accelerator, www.jam.gg answers with alert 40 handshake_failure from the Webflow proxy), piepacker.com has left DNS, and no api/docs/developers subdomain resolves, so the only reachable artifacts are the first-party SDK repositories on GitHub.",
+   "sector": "gaming",
+   "status": "acquired",
+   "url": "https://jam.gg/fr"
+  },
+  {
+   "name": "Jimmy",
+   "slug": "jimmy",
+   "bucket": "none",
+   "why": "none:not-a-software-company",
+   "detail": "Jimmy manufactures and operates nuclear high-temperature thermal generators and sells industrial heat on 20-year contracts, so there is nothing to expose as an API \u2014 api., docs. and developer.jimmy-energy.eu do not resolve in DNS and the Webflow marketing site 404s on every spec and /.well-known/ path probed.",
+   "sector": "climate-tech",
+   "status": "active",
+   "url": "https://www.jimmy-energy.eu/"
+  },
+  {
+   "name": "Joy (ex-Privateaser)",
+   "slug": "joy-io",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Joy ships software only as an end-user product \u2014 a manager web/mobile app plus a hosted booking widget \u2014 and publishes no developer portal, API reference, OpenAPI, webhook catalogue or SDK; the private backend its own app calls, manager-api.privateaser.com (read from https://app.joy.io/config.js), returns HTTP 404 on /openapi.json and every other spec path and is gated by an AWS Cognito user pool, and the 90-article help-center index at faq.joy.io/llms.txt never uses the word \"api\".",
+   "sector": "marketplace",
+   "status": "active",
+   "url": "https://www.joy.io/"
+  },
+  {
+   "name": "Kardinal",
+   "slug": "kardinal",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "saas",
+   "status": "active",
+   "url": "https://kardinal.ai/"
+  },
+  {
+   "name": "kelvin",
+   "slug": "kelvin",
+   "bucket": "programmable",
+   "why": "contract-and-agent-surface",
+   "detail": "",
+   "sector": "climate-tech",
+   "status": "active",
+   "url": "https://www.go-kelvin.com/"
+  },
+  {
+   "name": "Kili Technology",
+   "slug": "kili-technology",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://kili-technology.com/"
+  },
+  {
+   "name": "Kiute",
+   "slug": "kiute",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "Kiute was acquired by Booksy on 2021-11-09 and the brand is fully retired \u2014 every path on every Kiute host returns a blanket HTTP 301 to booksy.com or biz.booksy.com, no api/docs/ developers subdomain resolves, and the wildcard TLS certificate on www.kiute.com expired on 2026-08-13 and is being served unrenewed.",
+   "sector": "marketplace",
+   "status": "acquired",
+   "url": "https://www.kiute.com/"
+  },
+  {
+   "name": "Klarys",
+   "slug": "klarys",
+   "bucket": "undisclosed",
+   "why": "gated:customer-only-docs",
+   "detail": "Klarys runs a Django REST Framework API with a live OpenAPI schema endpoint, but https://klarys.app/api/schema/?format=json answers HTTP 401 {\"code\":1003,\"error\":\"User is unauthenticated\"} with Content-Type application/vnd.oai.openapi+json \u2014 the spec is real and served only to an authenticated tenant, and there is no developer portal, API reference or pricing page anywhere on www.klarys.io (all 134 sitemap URLs walked).",
+   "sector": "saas",
+   "status": "active",
+   "url": "https://www.klarys.io/"
+  },
+  {
+   "name": "Kleio",
+   "slug": "kleio",
+   "bucket": "undisclosed",
+   "why": "gated:sales-gate",
+   "detail": "Kleio runs a real OAuth-protected platform API at api.kleio.ai \u2014 its Google Cloud API Gateway serves RFC 8414 authorization-server metadata naming an Auth0 issuer and a defined dynamic client registration route \u2014 but publishes no developer portal, API reference, OpenAPI or auth guide anywhere, and kleio.ai/pricing and kleio.ai/docs both 404, so the only route to the API is the \"Request a Demo\" form at kleio.ai/contact.",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.kleio.ai/"
+  },
+  {
+   "name": "Kotcha",
+   "slug": "kotcha",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Kotcha is a consumer iOS/Android running-coach subscription from PACEUP SAS with no developer program at all \u2014 the marketing site has no /docs, /developers or /api route, api.kotcha.com and developer.kotcha.com are NXDOMAIN, and its Terms & Conditions section 6 explicitly prohibit \"accessing services through unauthorized means or automated methods\".",
+   "sector": "sporttech",
+   "status": "active",
+   "url": "https://www.kotcha.com/"
+  },
+  {
+   "name": "Kotzilla",
+   "slug": "kotzilla",
+   "bucket": "programmable",
+   "why": "agent-surface-only",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://kotzilla.io/"
+  },
+  {
+   "name": "Koyeb",
+   "slug": "koyeb",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "infrastructure",
+   "status": "acquired",
+   "url": "https://www.koyeb.com/"
+  },
+  {
+   "name": "LaFourchette",
+   "slug": "lafourchette",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "consumer",
+   "status": "acquired",
+   "url": "http://www.lafourchette.com/"
+  },
+  {
+   "name": "Launchmetrics",
+   "slug": "launchmetrics",
+   "bucket": "undisclosed",
+   "why": "api-listed-no-contract",
+   "detail": "",
+   "sector": "saas",
+   "status": "exited",
+   "url": "https://launchmetrics.com/"
+  },
+  {
+   "name": "Lengow",
+   "slug": "lengow",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "saas",
+   "status": "acquired",
+   "url": "http://www.lengow.fr/"
+  },
+  {
+   "name": "Leonardo.ai",
+   "slug": "leonardo-ai",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "acquired",
+   "url": "https://leonardo.ai/"
+  },
+  {
+   "name": "Lifen",
+   "slug": "lifen",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.lifen.fr/"
+  },
+  {
+   "name": "Lokki",
+   "slug": "lokki",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "climate-tech",
+   "status": "active",
+   "url": "https://www.lokki.rent/"
+  },
+  {
+   "name": "Malt",
+   "slug": "malt",
+   "bucket": "programmable",
+   "why": "contract-and-agent-surface",
+   "detail": "",
+   "sector": "marketplace",
+   "status": "active",
+   "url": "https://www.malt.fr/"
+  },
+  {
+   "name": "May",
+   "slug": "may",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "May is a direct-to-consumer mobile health app for parents \u2014 the whole public surface is a 51-page WordPress marketing site in three locales plus a seven-collection Intercom help center whose only partner-facing section routes health professionals, press and partnerships to an email conversation, and the sole backend hostname in the company's public DNS (capig.may.app, found in certificate-transparency logs) is a dangling CNAME to a deleted AWS Kubernetes ingress load balancer in eu-west-3.",
+   "sector": "edtech",
+   "status": "active",
+   "url": "https://may-sante.com/"
+  },
+  {
+   "name": "Melty",
+   "slug": "melty",
+   "bucket": "undisclosed",
+   "why": "unreadable:no-machine-readable-spec",
+   "detail": "melty.fr is a WordPress consumer media site with no developer portal at all, and the only two documented HTTP APIs the company ever published \u2014 the self-hosted Kisee and Pasee identity servers on readthedocs \u2014 ship no OpenAPI, AsyncAPI, GraphQL SDL, Postman collection or JSON Schema in any of the 7 meltygroup GitHub repositories.",
+   "sector": "consumer",
+   "status": "acquired",
+   "url": "http://www.melty.fr/"
+  },
+  {
+   "name": "Memo Bank",
+   "slug": "memo-bank",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "fintech-insurtech",
+   "status": "active",
+   "url": "https://memo.bank/"
+  },
+  {
+   "name": "Metrobloks",
+   "slug": "metrobloks",
+   "bucket": "none",
+   "why": "none:not-a-software-company",
+   "detail": "Metrobloks sells physical data-center capacity \u2014 halls, power, cooling and fiber cross-connects in seven metros \u2014 not software: its 54-URL Webflow sitemap contains no developer, API, docs, portal or login page at all, the \"Self-Perform Interconnect\" on its interconnection page is a customer pulling their own fiber rather than a software surface, and every /.well-known/* path returns a static \"Invalid .well-known request\" 404.",
+   "sector": "unknown",
+   "status": "active",
+   "url": "https://metrobloks.com"
+  },
+  {
+   "name": "Mindee",
+   "slug": "mindee",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://mindee.com/"
+  },
+  {
+   "name": "MONI (Ex-Monisnap)",
+   "slug": "monisnap",
+   "bucket": "undisclosed",
+   "why": "gated:sales-gate",
+   "detail": "MONI markets a B2B \"Moni-as-a-Service\" remittance-as-a-service platform that Nickel and Bnext already embed, but ships it entirely through direct sales \u2014 there is no developer portal to gate: api., docs., developer., developers. and sandbox.monisnap.com all NXDOMAIN, and every /.well-known/ discovery path on the two live hosts 404s.",
+   "sector": "fintech-insurtech",
+   "status": "active",
+   "url": "https://www.monisnap.com/fr/"
+  },
+  {
+   "name": "Naftiko",
+   "slug": "naftiko",
+   "bucket": "unmeasured",
+   "why": "never-enriched",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://naftiko.io/"
+  },
+  {
+   "name": "Norbert Health",
+   "slug": "norbert-health",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Norbert Health's entire public web presence is three pages (/, /about, /privacy-policy) with a \"Book a demo\" mailto as its only call to action; the sole API host, api.norberthealth.com, is a private AWS API Gateway backing the NORBERT Health Android app that answers HTTP 403 {\"message\":\"Forbidden\"} on every path including the root.",
+   "sector": "healthtech",
+   "status": "active",
+   "url": "https://www.norberthealth.com/"
+  },
+  {
+   "name": "Odaseva",
+   "slug": "odaseva",
+   "bucket": "undisclosed",
+   "why": "gated:customer-only-docs",
+   "detail": "Odaseva ships a real, versioned Platform API \u2014 the first-party odaseva-cli binary is a REST client for it and exposes an --apiVersion selector \u2014 but every path on its host api.odaseva.com answers a Salesforce My Domain 401 login challenge, and the reference that would describe it lives only in the customer knowledge base behind platform.odaseva.com/CBR; there is no developer subdomain at all (docs., developer., api-docs. and ten other candidates are NXDOMAIN) and the 376-URL sitemap contains no API, developer or documentation URL.",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.odaseva.com/"
+  },
+  {
+   "name": "Onibi",
+   "slug": "onibi",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Onibi is a pre-release consumer game studio whose entire web presence is three static pages (Studio, Career, Contact) plus a nine-language marketing site for the unreleased Tomo: Endless Blue \u2014 the Steam page promises the game will be moddable but no modding API, SDK or developer documentation exists yet, and the only HTTP API on any Onibi host is /api/ on the product site, which its own robots.txt disallows; onibi.gg answers HTTP 200 with the same 43KB homepage for /openapi.json and every other probed path, so its 200s are soft-404s, while tomoendlessblue.com returns real 404s for all of them.",
+   "sector": "unknown",
+   "status": "active",
+   "url": "http://onibi.gg/"
+  },
+  {
+   "name": "Opsmill",
+   "slug": "opsmill",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.opsmill.com/"
+  },
+  {
+   "name": "PandaScore",
+   "slug": "pandascore",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://pandascore.co/welcome"
+  },
+  {
+   "name": "Pelico",
+   "slug": "pelico",
+   "bucket": "undisclosed",
+   "why": "gated:sales-gate",
+   "detail": "Pelico's platform page markets \"APIs to ingest new data sources and push actions into existing enterprise systems\", but there is no reference behind it \u2014 /docs, /developers, /api-docs and /pricing all 404, every conventional API subdomain (api, docs, developers, app, mcp) under pelico.ai is NXDOMAIN, and the 172-URL sitemap routes every API question to the /contact form.",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.pelico.ai/"
+  },
+  {
+   "name": "Pixeltable",
+   "slug": "pixeltable",
+   "bucket": "programmable",
+   "why": "agent-surface-only",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.pixeltable.com/"
+  },
+  {
+   "name": "Polaron",
+   "slug": "polaron",
+   "bucket": "undisclosed",
+   "why": "gated:customer-only-docs",
+   "detail": "Polaron ships no developer surface at all on its marketing site \u2014 the 22-URL sitemap has no /developers, /docs or /pricing entry \u2014 and the product's own backend at https://app.polaron.ai/api/ answers every path, including /api/openapi.json and /api/docs, with a blanket HTTP 401 {\"detail\":\"Unauthorized\"}, so the contract is reachable only with an active tenant account.",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.polaron.ai/"
+  },
+  {
+   "name": "Poppins",
+   "slug": "poppins",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Poppins ships a CE-marked consumer/clinical mobile app and nothing developer-facing \u2014 the sitemap's ~200 URLs contain no /developers, /api or /docs path, no api./developer./docs. poppins.io subdomain resolves, and the customer app's own backend is an undocumented private AWS API Gateway stage (le2svivnk3.execute-api.eu-west-3.amazonaws.com/public-paid/*) reached only from the SPA, not a published API.",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.poppins.io/"
+  },
+  {
+   "name": "Powder",
+   "slug": "powder",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "Powder shipped only a consumer Windows desktop clipping app with no public API, portal or SDK, and the company has since wound down \u2014 its apex host powder.gg now 301-redirects every path, including /openapi.json and every /.well-known/ path, to a first-party notice saying the app is no longer updated or maintained.",
+   "sector": "gaming",
+   "status": "active",
+   "url": "https://powder.gg/"
+  },
+  {
+   "name": "Prestashop",
+   "slug": "prestashop",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "marketplace",
+   "status": "acquired",
+   "url": "http://www.prestashop.com/"
+  },
+  {
+   "name": "Pretto",
+   "slug": "pretto",
+   "bucket": "undisclosed",
+   "why": "gated:customer-only-docs",
+   "detail": "Pretto's API reference route exists at https://api.pretto.fr/api-docs but is protected by HTTP Basic auth (401), and the developers.pretto.fr ReadMe hub 302s to /inactive and then 401s \u2014 while sibling paths on the same API host return 404, so the gate is real and the contract is issued only to Pretto Galaxie broker partners under agreement, never published.",
+   "sector": "fintech-insurtech",
+   "status": "active",
+   "url": "https://www.pretto.fr/"
+  },
+  {
+   "name": "Prixtel",
+   "slug": "prixtel",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Prixtel is a retail MVNO that sells flexible mobile subscriptions to human consumers and ships software only as an end-user phone app \u2014 there is no /developpeurs, /developers, /api or /docs page, no GitHub organization (api.github.com/orgs/prixtel is 404), and zero first-party packages across nine registries; api.prixtel.com resolves to a live nginx origin that serves the mobile app but answers 404 on its root and on every spec, GraphQL, MCP and well-known path probed against it.",
+   "sector": "consumer",
+   "status": "exited",
+   "url": "https://www.prixtel.com/"
+  },
+  {
+   "name": "Probabl",
+   "slug": "probabl",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "open-source",
+   "status": "active",
+   "url": "https://probabl.ai/"
+  },
+  {
+   "name": "PyannoteAI",
+   "slug": "pyannoteai",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://pyannote.ai/"
+  },
+  {
+   "name": "Qualtera",
+   "slug": "qualtera",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "Qualtera was absorbed into Synopsys in June 2020; qualtera.com is now delegated to Synopsys nameservers and 301-redirects every path \u2014 including /.well-known/agent-card.json, /openapi.json and /llms.txt \u2014 to the Synopsys Silicon Lifecycle Management page, while https://qualtera.com refuses the TLS handshake, so no Qualtera-owned surface remains to read.",
+   "sector": "ai-data",
+   "status": "acquired",
+   "url": "https://www.qualtera.com/"
+  },
+  {
+   "name": "Quandela",
+   "slug": "quandela",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "quantum",
+   "status": "active",
+   "url": "https://www.quandela.com/"
+  },
+  {
+   "name": "Quantilia",
+   "slug": "quantilia",
+   "bucket": "undisclosed",
+   "why": "gated:customer-only-docs",
+   "detail": "Quantilia markets API delivery (\"Output as files, dashboards, or API feeds for downstream systems\") and runs a live API host at api.quantilia.com, but that host answers HTTP 403 Forbidden from nginx to every unauthenticated request including \"/\", and the 48-page public sitemap contains no developer portal, API reference or specification of any kind \u2014 the contract is only reachable with a signed client agreement.",
+   "sector": "ai-data",
+   "status": "exited",
+   "url": "https://www.quantilia.com/"
+  },
+  {
+   "name": "Rainbow",
+   "slug": "riverse",
+   "bucket": "undisclosed",
+   "why": "gated:customer-only-docs",
+   "detail": "Rainbow's own published fee schedule confirms an API exists \u2014 \"Rainbow does not charge additional costs for retirement, transfers or API connections\" \u2014 but the connection is only available to Arc/Registry account holders and not one of the 163 public documentation pages describes an endpoint, base URL, auth model or spec.",
+   "sector": "climate-tech",
+   "status": "active",
+   "url": "https://www.rainbowstandard.io/"
+  },
+  {
+   "name": "Roofline",
+   "slug": "roofline",
+   "bucket": "undisclosed",
+   "why": "gated:sales-gate",
+   "detail": "All three Roofline products \u2014 SDK, Runtime and Performance Dashboard \u2014 end at the same sentence, \"Just reach out through our Contact Us form\", and the only \"view docs\" link on those pages resolves to github.com/RooflineAI, an org whose own profile README disclaims its repos as \"not a Roofline AI product\".",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.roofline.ai/"
+  },
+  {
+   "name": "RSI Video Technologies",
+   "slug": "rsi-video-technologies",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "videofied.com is no longer a company site - it is a bare Azure App Service redirector (serving the Azure wildcard *.azurewebsites.net certificate, which does not even match the hostname) that 301s the brand's old marketing paths into resideo.com and honeywellhome.com and 404s everything else, while www.videofied.com and rsivideotech.com return NXDOMAIN and rsivideo.com is a parked lander; Honeywell bought RSI Video Technologies in March 2016 and the Videofied line now belongs to Resideo, so there is no RSI-operated developer surface left to read.",
+   "sector": "unknown",
+   "status": "acquired",
+   "url": "https://www.videofied.com/"
+  },
+  {
+   "name": "Sant\u00e9 Acad\u00e9mie",
+   "slug": "santeacademie",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "edtech",
+   "status": "active",
+   "url": "http://www.santeacademie.com/"
+  },
+  {
+   "name": "Sant\u00e9Vet",
+   "slug": "santevet",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "consumer",
+   "status": "acquired",
+   "url": "https://www.santevet.com/"
+  },
+  {
+   "name": "Sarus",
+   "slug": "sarus",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://sarus.tech/"
+  },
+  {
+   "name": "Seiza",
+   "slug": "seiza",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "Seiza was acquired by Adzuna on 2024-11-18 and has now been fully decommissioned rather than redirected \u2014 seiza.co holds a live registration to 2027 but its GoDaddy delegation answers REFUSED, so the apex, www, api, docs and app hosts all return SERVFAIL and no HTTP connection can be opened; the profile's inherited seiza.fr URL is an unrelated GoDaddy Website Builder page (\"Find Your Zen\") whose only machine-readable file is a GoDaddy-generated llms.txt, and while the real site was live it published 23 pre-built ATS connectors with bespoke integrations routed through sales but never a public API, developer portal or specification of any kind.",
+   "sector": "saas",
+   "status": "acquired",
+   "url": "https://seiza.fr/"
+  },
+  {
+   "name": "Selectron",
+   "slug": "selectron",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Selectron builds embedded rail control software that runs on its own on-vehicle hardware and ships its engineering toolchain (Symphony Suite) as licensed Windows desktop applications downloaded from the login-gated Cockpit portal \u2014 there is no web API, developer portal or machine-readable contract anywhere on selectron.ch, and api./developer./docs.selectron.ch do not resolve.",
+   "sector": "unknown",
+   "status": "acquired",
+   "url": "https://www.selectron.ch/de/index.php"
+  },
+  {
+   "name": "Sequans",
+   "slug": "sequans",
+   "bucket": "programmable",
+   "why": "agent-surface-only",
+   "detail": "",
+   "sector": "unknown",
+   "status": "ipo",
+   "url": "http://www.sequans.com/"
+  },
+  {
+   "name": "Shadow",
+   "slug": "shadow",
+   "bucket": "undisclosed",
+   "why": "api-listed-no-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "acquired",
+   "url": "https://shadow.tech/"
+  },
+  {
+   "name": "Silvr",
+   "slug": "silvr",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "Silvr Groupe SAS declared cessation of payments in June 2025 and on 2 December 2025 the Nanterre court awarded Karmen the takeover of all its assets bar the non-performing loan portfolio, so silvr.co is now a Webflow marketing archive whose apply and login buttons redirect to app.karmen.io; the embedded-finance partner API it once marketed never had a public reference and every spec, /.well-known and developer-host probe returns 404 or NXDOMAIN.",
+   "sector": "fintech-insurtech",
+   "status": "exited",
+   "url": "https://silvr.co/"
+  },
+  {
+   "name": "Switstack",
+   "slug": "switstack",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "fintech-insurtech",
+   "status": "active",
+   "url": "https://www.switstack.io/"
+  },
+  {
+   "name": "TextMaster",
+   "slug": "textmaster",
+   "bucket": "programmable",
+   "why": "contract-and-agent-surface",
+   "detail": "",
+   "sector": "saas",
+   "status": "acquired",
+   "url": "https://fr.textmaster.com/"
+  },
+  {
+   "name": "TVTY",
+   "slug": "tvty",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "TVTY was acquired by Nielsen in July 2021 and absorbed into its TV attribution business; tvty.tv still resolves and is renewed through MarkMonitor, but nothing listens on port 80 or 443, no www/api/docs/developer subdomain resolves, and the Internet Archive's last successful capture is 2023-06-08 before the host began 301-redirecting to an unrelated domain.",
+   "sector": "unknown",
+   "status": "acquired",
+   "url": "http://www.tvty.tv/"
+  },
+  {
+   "name": "Underdog",
+   "slug": "underdog",
+   "bucket": "programmable",
+   "why": "contract-and-agent-surface",
+   "detail": "",
+   "sector": "climate-tech",
+   "status": "active",
+   "url": "https://underdog.shop/"
+  },
+  {
+   "name": "Uniphore",
+   "slug": "uniphore",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://www.uniphore.com/"
+  },
+  {
+   "name": "Uptime",
+   "slug": "uptime",
+   "bucket": "none",
+   "why": "none:defunct",
+   "detail": "Uptime SAS was put into liquidation judiciaire by the Paris Commercial Court on 2022-10-20 with a plan de cession to SAS Otis, and its uptime.ac domain has since lapsed \u2014 every path, including /openapi.json and /.well-known/*, now 301-redirects to https://www.investwithcoin.com/how-it-works/ and on to an unrelated gambling site, so the prior common[] Website pointer to www.uptime.ac was removed rather than left pointing at a third party's server.",
+   "sector": "ai-data",
+   "status": "exited",
+   "url": "https://www.uptime.ac/"
+  },
+  {
+   "name": "Vekia",
+   "slug": "vekia",
+   "bucket": "none",
+   "why": "none:no-developer-program",
+   "detail": "Vekia sells Vekia Engine as an enterprise supply-chain platform that its own team wires into a customer's ERP, and publishes no developer program at all \u2014 api.vekia.fr, docs.vekia.fr and developer.vekia.fr do not resolve, /developers and /api return the site 404, and the only machine-readable surfaces on www.vekia.fr are its WordPress REST namespace and an OAuth-gated WordPress MCP endpoint, neither of which is the product API.",
+   "sector": "ai-data",
+   "status": "acquired",
+   "url": "https://www.vekia.fr/"
+  },
+  {
+   "name": "Waiv",
+   "slug": "waiv",
+   "bucket": "unmeasured",
+   "why": "never-enriched",
+   "detail": "",
+   "sector": "ai-data",
+   "status": "active",
+   "url": "https://wearewaiv.com/"
+  },
+  {
+   "name": "Wazo",
+   "slug": "wazo",
+   "bucket": "programmable",
+   "why": "published-contract",
+   "detail": "",
+   "sector": "saas",
+   "status": "active",
+   "url": "https://wazo.io/"
+  },
+  {
+   "name": "Wecasa",
+   "slug": "wecasa",
+   "bucket": "unmeasured",
+   "why": "never-enriched",
+   "detail": "",
+   "sector": "consumer",
+   "status": "active",
+   "url": "https://www.wecasa.fr/"
+  }
+ ]
+}

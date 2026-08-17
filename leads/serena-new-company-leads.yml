@@ -36,319 +36,319 @@ leads:
   sector: marketplace
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/joy/
-  stub_created: false
+  stub_created: true
 - name: Kardinal
   url: https://kardinal.ai/
   suggested_slug: kardinal
   sector: saas
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/kardinal/
-  stub_created: false
+  stub_created: true
 - name: Kiute
   url: https://www.kiute.com/
   suggested_slug: kiute
   sector: marketplace
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/flexy/
-  stub_created: false
+  stub_created: true
 - name: Klarys
   url: https://www.klarys.io/
   suggested_slug: klarys
   sector: saas
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/klarys/
-  stub_created: false
+  stub_created: true
 - name: Kleio
   url: https://www.kleio.ai/
   suggested_slug: kleio
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/kleio/
-  stub_created: false
+  stub_created: true
 - name: Kotcha
   url: https://www.kotcha.com/
   suggested_slug: kotcha
   sector: sporttech
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/kotcha/
-  stub_created: false
+  stub_created: true
 - name: Kotzilla
   url: https://kotzilla.io/
   suggested_slug: kotzilla
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/kotzilla/
-  stub_created: false
+  stub_created: true
 - name: LaFourchette
   url: http://www.lafourchette.com/
   suggested_slug: lafourchette
   sector: consumer
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/lafourchette/
-  stub_created: false
+  stub_created: true
 - name: Launchmetrics
   url: https://launchmetrics.com/
   suggested_slug: launchmetrics
   sector: saas
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/launchmetrics/
-  stub_created: false
+  stub_created: true
 - name: Lengow
   url: http://www.lengow.fr/
   suggested_slug: lengow
   sector: saas
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/lengow/
-  stub_created: false
+  stub_created: true
 - name: Lokki
   url: https://www.lokki.rent/
   suggested_slug: lokki
   sector: climate-tech
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/lokki/
-  stub_created: false
+  stub_created: true
 - name: Malt
   url: https://www.malt.fr/
   suggested_slug: malt
   sector: marketplace
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/malt/
-  stub_created: false
+  stub_created: true
 - name: May
   url: https://may-sante.com/
   suggested_slug: may
   sector: edtech
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/may/
-  stub_created: false
+  stub_created: true
 - name: Melty
   url: http://www.melty.fr/
   suggested_slug: melty
   sector: consumer
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/melty/
-  stub_created: false
+  stub_created: true
 - name: Memo Bank
   url: https://memo.bank/
   suggested_slug: memo-bank
   sector: fintech-insurtech
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/memo-bank/
-  stub_created: false
+  stub_created: true
 - name: Metrobloks
   url: https://metrobloks.com
   suggested_slug: metrobloks
   sector: unknown
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/metrobloks/
-  stub_created: false
+  stub_created: true
 - name: MONI (Ex-Monisnap)
   url: https://www.monisnap.com/fr/
   suggested_slug: monisnap
   sector: fintech-insurtech
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/moni/
-  stub_created: false
+  stub_created: true
 - name: Naftiko
   url: https://naftiko.io/
   suggested_slug: naftiko
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/naftiko/
-  stub_created: false
+  stub_created: true
 - name: Norbert Health
   url: https://www.norberthealth.com/
   suggested_slug: norbert-health
   sector: healthtech
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/norbert-health/
-  stub_created: false
+  stub_created: true
 - name: Onibi
   url: http://onibi.gg/
   suggested_slug: onibi
   sector: unknown
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/onibi/
-  stub_created: false
+  stub_created: true
 - name: Pixeltable
   url: https://www.pixeltable.com/
   suggested_slug: pixeltable
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/pixeltable/
-  stub_created: false
+  stub_created: true
 - name: Powder
   url: https://powder.gg/
   suggested_slug: powder
   sector: gaming
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/powder/
-  stub_created: false
+  stub_created: true
 - name: Pretto
   url: https://www.pretto.fr/
   suggested_slug: pretto
   sector: fintech-insurtech
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/pretto/
-  stub_created: false
+  stub_created: true
 - name: Prixtel
   url: https://www.prixtel.com/
   suggested_slug: prixtel
   sector: consumer
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/prixtel/
-  stub_created: false
+  stub_created: true
 - name: Probabl
   url: https://probabl.ai/
   suggested_slug: probabl
   sector: open-source
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/probabl/
-  stub_created: false
+  stub_created: true
 - name: PyannoteAI
   url: https://pyannote.ai/
   suggested_slug: pyannoteai
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/pyannoteai/
-  stub_created: false
+  stub_created: true
 - name: Qualtera
   url: https://www.qualtera.com/
   suggested_slug: qualtera
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/qualtera/
-  stub_created: false
+  stub_created: true
 - name: Quantilia
   url: https://www.quantilia.com/
   suggested_slug: quantilia
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/quantilia/
-  stub_created: false
+  stub_created: true
 - name: Roofline
   url: https://www.roofline.ai/
   suggested_slug: roofline
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/roofline/
-  stub_created: false
+  stub_created: true
 - name: RSI Video Technologies
   url: https://www.videofied.com/
   suggested_slug: rsi-video-technologies
   sector: unknown
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/rsi-video-technologies/
-  stub_created: false
+  stub_created: true
 - name: Santé Académie
   url: http://www.santeacademie.com/
   suggested_slug: santeacademie
   sector: edtech
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/sante-academie/
-  stub_created: false
+  stub_created: true
 - name: SantéVet
   url: https://www.santevet.com/
   suggested_slug: santevet
   sector: consumer
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/santevet/
-  stub_created: false
+  stub_created: true
 - name: Sarus
   url: https://sarus.tech/
   suggested_slug: sarus
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/sarus/
-  stub_created: false
+  stub_created: true
 - name: Seiza
   url: https://seiza.fr/
   suggested_slug: seiza
   sector: saas
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/seiza/
-  stub_created: false
+  stub_created: true
 - name: Selectron
   url: https://www.selectron.ch/de/index.php
   suggested_slug: selectron
   sector: unknown
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/selectron/
-  stub_created: false
+  stub_created: true
 - name: Sequans
   url: http://www.sequans.com/
   suggested_slug: sequans
   sector: unknown
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/sequans/
-  stub_created: false
+  stub_created: true
 - name: Shadow
   url: https://shadow.tech/
   suggested_slug: shadow
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/shadow/
-  stub_created: false
+  stub_created: true
 - name: Silvr
   url: https://silvr.co/
   suggested_slug: silvr
   sector: fintech-insurtech
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/silvr/
-  stub_created: false
+  stub_created: true
 - name: Switstack
   url: https://www.switstack.io/
   suggested_slug: switstack
   sector: fintech-insurtech
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/switstack/
-  stub_created: false
+  stub_created: true
 - name: TextMaster
   url: https://fr.textmaster.com/
   suggested_slug: textmaster
   sector: saas
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/textmaster/
-  stub_created: false
+  stub_created: true
 - name: Underdog
   url: https://underdog.shop/
   suggested_slug: underdog
   sector: climate-tech
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/underdog/
-  stub_created: false
+  stub_created: true
 - name: Uptime
   url: https://www.uptime.ac/
   suggested_slug: uptime
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/uptime/
-  stub_created: false
+  stub_created: true
 - name: Vekia
   url: https://www.vekia.fr/
   suggested_slug: vekia
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/vekia/
-  stub_created: false
+  stub_created: true
 - name: Waiv
   url: https://wearewaiv.com/
   suggested_slug: waiv
   sector: ai-data
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/waiv/
-  stub_created: false
+  stub_created: true
 - name: Wazo
   url: https://wazo.io/
   suggested_slug: wazo
   sector: saas
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/wazo/
-  stub_created: false
+  stub_created: true
 - name: Wecasa
   url: https://www.wecasa.fr/
   suggested_slug: wecasa
   sector: consumer
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/wecasa/
-  stub_created: false
+  stub_created: true
