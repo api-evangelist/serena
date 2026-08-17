@@ -7,10 +7,10 @@ description: Every company published on Serena's public portfolio page, harveste
   and each company profile page, annotated with its match against the API Evangelist network.
 summary:
   portfolio_total: 113
-  in_network: 32
+  in_network: 63
   api_providers: 10
-  missing: 81
-  stubs_created: 0
+  missing: 50
+  stubs_created: 4
 companies:
 - name: 8Sec
   url: https://www.8sec.games/
@@ -55,10 +55,9 @@ companies:
     solution highly competitive with other low-carbon heating and cooling technologies.
   in_network: true
   is_api_provider: false
-  suggested_slug: accenta
   stub_created: true
   slug: accenta
-  matched_by: stub
+  matched_by: name-slug
 - name: Acheel
   url: https://www.acheel.com/
   description: The first French generalist and digital insurance company
@@ -74,10 +73,9 @@ companies:
     or mobile and delivers various products such as Home Insurance, Health insurance, or Pet Insurance.
   in_network: true
   is_api_provider: false
-  suggested_slug: acheel
   stub_created: true
   slug: acheel
-  matched_by: stub
+  matched_by: name-slug
 - name: Acinq
   url: https://acinq.co/
   description: One of the leading companies of Bitcoin scalability
@@ -94,10 +92,9 @@ companies:
     pressing challenges for Bitcoin : its ability to scale to VISA-level transactions throughout.'
   in_network: true
   is_api_provider: false
-  suggested_slug: acinq
   stub_created: true
   slug: acinq
-  matched_by: stub
+  matched_by: name-slug
 - name: Alkemics
   url: https://www.alkemics.com/
   description: Connects brands and retailers through smarter product data for today's omni-channel shoppers
@@ -145,10 +142,9 @@ companies:
     in-depth analysis of the conversation, through signal analysis, vocal recognition, and semantics.
   in_network: true
   is_api_provider: false
-  suggested_slug: allo-media
   stub_created: true
   slug: allo-media
-  matched_by: stub
+  matched_by: name-slug
 - name: AMI Labs
   url: https://amilabs.xyz/
   description: Advanced Machine Intelligence (AMI) is enabling the next AI revolution - built on foundational
@@ -197,10 +193,9 @@ companies:
     in France, they have expanded into Spain and Belgium thanks to their partnership with the PSA Group.'
   in_network: true
   is_api_provider: false
-  suggested_slug: aramisauto
   stub_created: true
   slug: aramisauto
-  matched_by: stub
+  matched_by: name-slug
 - name: Arlettie
   url: https://www.arlettie.com/
   description: Private showroom experts
@@ -216,10 +211,9 @@ companies:
     Paris and London.
   in_network: true
   is_api_provider: false
-  suggested_slug: arlettie
   stub_created: true
   slug: arlettie
-  matched_by: stub
+  matched_by: name-slug
 - name: Bestmile
   url: https://bestmile.com/
   description: The first cloud platform for the intelligent operation and optimization of autonomous mobility
@@ -262,10 +256,9 @@ companies:
     and operates without any central entity that can devalue its currency.
   in_network: true
   is_api_provider: false
-  suggested_slug: bitstack
   stub_created: true
   slug: bitstack
-  matched_by: stub
+  matched_by: name-slug
 - name: Bonitasoft
   url: https://www.bonitasoft.com/
   description: The open source Business Process Management-based application development platform
@@ -285,10 +278,9 @@ companies:
     platform for business process automation.
   in_network: true
   is_api_provider: false
-  suggested_slug: bonitasoft
   stub_created: true
   slug: bonitasoft
-  matched_by: stub
+  matched_by: name-slug
 - name: Boxy (ex-Storelift)
   url: https://www.getboxy.co/
   description: Boxy's mission is to deliver uncompromising convenience through every experience.
@@ -303,13 +295,11 @@ companies:
     into any environment. All we need is a small piece of land and a power source. We work hard behind
     the scenes using state-of-the-art technology to ensure our customers' experience is as seamless and
     enjoyable as possible.
-  in_network: true
+  in_network: false
   is_api_provider: false
   suggested_slug: getboxy
   x-suggested-slug: getboxy
   stub_created: true
-  slug: getboxy
-  matched_by: stub
 - name: Brigad
   url: https://brigad.co/
   description: Enables self-employed professionals and businesses in Hospitality and Healthcare to connect
@@ -349,10 +339,9 @@ companies:
     while providing a new way for corporates to reach their net-zero goals.
   in_network: true
   is_api_provider: false
-  suggested_slug: carbonfarm
   stub_created: true
   slug: carbonfarm
-  matched_by: stub
+  matched_by: name-slug
 - name: Cheerz
   url: http://www.cheerz.com/
   description: Makes printing memorable moments from a mobile phone easy
@@ -370,10 +359,9 @@ companies:
     app and it's from Paris.
   in_network: true
   is_api_provider: false
-  suggested_slug: cheerz
   stub_created: true
   slug: cheerz
-  matched_by: stub
+  matched_by: name-slug
 - name: Clevergy
   url: https://clever.gy/fr/
   description: Smarter energy for a sustainable future
@@ -391,10 +379,9 @@ companies:
     support energy efficiency and unlock new opportunities for products and services.
   in_network: true
   is_api_provider: false
-  suggested_slug: clevergy
   stub_created: true
   slug: clevergy
-  matched_by: stub
+  matched_by: name-slug
 - name: Cloud Ex Machina
   url: https://www.cloudexmachina.io/
   description: Reshaping cloud financial management
@@ -414,13 +401,11 @@ companies:
     ensures actionable insights are delivered where they are most needed. By streamlining cloud management,
     Cloud ex Machina enables organizations to improve efficiency, reduce costs, and support sustainable
     cloud practices.
-  in_network: true
+  in_network: false
   is_api_provider: false
   suggested_slug: cloudexmachina
   x-suggested-slug: cloudexmachina
   stub_created: true
-  slug: cloudexmachina
-  matched_by: stub
 - name: Coachclub
   url: http://www.coachclub.com/hp/
   description: The first online service to provide tailor-made sport and fitness training videos
@@ -437,10 +422,9 @@ companies:
     a personalized program, accessible from everywhere via the internet or TV.
   in_network: true
   is_api_provider: false
-  suggested_slug: coachclub
   stub_created: true
   slug: coachclub
-  matched_by: stub
+  matched_by: name-slug
 - name: Cometh
   url: https://www.cometh.io/
   description: Blockchain games with benefits.
@@ -458,10 +442,9 @@ companies:
     projects.
   in_network: true
   is_api_provider: false
-  suggested_slug: cometh
   stub_created: true
   slug: cometh
-  matched_by: stub
+  matched_by: name-slug
 - name: Coorpacademy
   url: https://www.coorpacademy.com/
   description: Corporate online training with an innovative, user-centric and enjoyable digital learning
@@ -484,10 +467,9 @@ companies:
     the learner. Coorpacademy is part of the EdTech France association.
   in_network: true
   is_api_provider: false
-  suggested_slug: coorpacademy
   stub_created: true
   slug: coorpacademy
-  matched_by: stub
+  matched_by: name-slug
 - name: CybelAngel
   url: https://www.cybelangel.com/
   description: CybelAngel explores the deep web to protect major firms from costly data leaks.
@@ -506,10 +488,9 @@ companies:
     property, brand, and reputation. Every day, CybelAngel detects data leaks that others don't.
   in_network: true
   is_api_provider: false
-  suggested_slug: cybelangel
   stub_created: true
   slug: cybelangel
-  matched_by: stub
+  matched_by: name-slug
 - name: Darewise
   url: https://www.darewise.com/
   description: Interactive and socially-connected experiences that go beyond entertainment
@@ -530,10 +511,9 @@ companies:
     and the fulfillment of making new connections.
   in_network: true
   is_api_provider: false
-  suggested_slug: darewise
   stub_created: true
   slug: darewise
-  matched_by: stub
+  matched_by: name-slug
 - name: Dataiku
   url: http://www.dataiku.com/
   description: Leader in Enterprise AI, Dataiku reached unicorn status in 2019, four years after our investment
@@ -629,11 +609,10 @@ companies:
     to all.
   in_network: true
   is_api_provider: false
-  suggested_slug: deski
   x-suggested-slug: deski
   stub_created: true
   slug: deski
-  matched_by: stub
+  matched_by: name-slug
 - name: Dotfile
   url: https://www.dotfile.com/
   description: Building a trust infrastructure for the internet economy
@@ -652,10 +631,9 @@ companies:
     or expand to new markets with different regulatory frameworks faster.
   in_network: true
   is_api_provider: false
-  suggested_slug: dotfile
   stub_created: true
   slug: dotfile
-  matched_by: stub
+  matched_by: name-slug
 - name: Edgee
   url: https://www.edgee.cloud/
   description: Edge computing, one of the fundamental foundations of the next phase of the Internet
@@ -677,10 +655,9 @@ companies:
     edge.'
   in_network: true
   is_api_provider: false
-  suggested_slug: edgee
   stub_created: true
   slug: edgee
-  matched_by: stub
+  matched_by: name-slug
 - name: Educ-up
   url: https://educ-up.fr/
   description: Promoting Education for All
@@ -702,10 +679,9 @@ companies:
     incomes, its mission is to promote curiosity, autonomy, and confidence in children. Its second project
   in_network: true
   is_api_provider: false
-  suggested_slug: educ-up
   stub_created: true
   slug: educ-up
-  matched_by: stub
+  matched_by: name-slug
 - name: Electra
   url: https://www.go-electra.com/
   description: Electra reinvents electric car charging with a network of ultra-fast stations and a simple
@@ -725,14 +701,12 @@ companies:
     was founded by three experienced entrepreneurs with a passion for electric mobility: Aurélien de Meaux
     – CEO, Augustin Derville – CDO, and Julien Belliato – COO. Their objective is to set up 1,000 stations
     by 2030.'
-  in_network: true
+  in_network: false
   is_api_provider: false
   x-match: none
   x-suggested-slug: go-electra
   suggested_slug: go-electra
   stub_created: true
-  slug: go-electra
-  matched_by: stub
 - name: Elium
   url: https://www.elium.com/
   description: AI-Powered knowledge management platform for all company information
@@ -752,10 +726,9 @@ companies:
     intelligence, not just another forgotten folder gathering digital dust.
   in_network: true
   is_api_provider: false
-  suggested_slug: elium
   stub_created: true
   slug: elium
-  matched_by: stub
+  matched_by: name-slug
 - name: Emmi AI
   url: https://www.emmi.ai/
   description: Inspired by Physics, Driven by AI
@@ -819,10 +792,9 @@ companies:
     poor profit
   in_network: true
   is_api_provider: false
-  suggested_slug: finalcad
   stub_created: true
   slug: finalcad
-  matched_by: stub
+  matched_by: name-slug
 - name: Fipto
   url: https://fipto.com
   description: Crypto and Fiat Currencies, Unified
@@ -843,10 +815,9 @@ companies:
     Authority (AMF). Learn more about Fipto''s comprehensive range of solutions at'
   in_network: true
   is_api_provider: false
-  suggested_slug: fipto
   stub_created: true
   slug: fipto
-  matched_by: stub
+  matched_by: name-slug
 - name: Formality
   url: https://www.formality.com/
   description: Managing your contracts becomes a simple formality!
@@ -905,10 +876,9 @@ companies:
     and positive impact. Since its creation, its solutions have helped avoid more than 100,000 tons of '
   in_network: true
   is_api_provider: false
-  suggested_slug: goodvest
   stub_created: true
   slug: goodvest
-  matched_by: stub
+  matched_by: name-slug
 - name: H
   url: https://hcompany.ai/
   description: AI action models for task automation & decision-making
@@ -947,10 +917,9 @@ companies:
     and public administration, to jointly invent the “Smart City” of tomorrow.
   in_network: true
   is_api_provider: false
-  suggested_slug: habiteo
   stub_created: true
   slug: habiteo
-  matched_by: stub
+  matched_by: name-slug
 - name: Helios
   url: https://www.helios.do/
   description: The sustainable neobank committed to limiting global warming
@@ -969,10 +938,9 @@ companies:
     a payment card, all daily banking services and a dedicated advisor, all accessible from a mobile application.
   in_network: true
   is_api_provider: false
-  suggested_slug: helios
   stub_created: true
   slug: helios
-  matched_by: stub
+  matched_by: name-slug
 - name: Heuritech
   url: http://heuritech.com/
   description: The first AI-based visual recognition tool for the fashion world.
@@ -996,10 +964,9 @@ companies:
     in the luxury, fashi'
   in_network: true
   is_api_provider: false
-  suggested_slug: heuritech
   stub_created: true
   slug: heuritech
-  matched_by: stub
+  matched_by: name-slug
 - name: Hull
   url: https://www.hull.io/
   description: One source of truth, synchronized everywhere
@@ -1048,10 +1015,9 @@ companies:
     Deloitte's recognized “Technology Fast 50.”
   in_network: true
   is_api_provider: false
-  suggested_slug: ibanfirst
   stub_created: true
   slug: ibanfirst
-  matched_by: stub
+  matched_by: name-slug
 - name: iContainers
   url: https://www.icontainers.com/
   description: Europe's leading real-time booking platform for container transport by land and sea
@@ -1072,10 +1038,9 @@ companies:
     Miami with offices in Barcelona, Rotterdam, Santo Domingo, and Ahmedabad (India).
   in_network: true
   is_api_provider: false
-  suggested_slug: icontainers
   stub_created: true
   slug: icontainers
-  matched_by: stub
+  matched_by: name-slug
 - name: Implicity
   url: https://www.implicity.com/
   description: The French leader in remote monitoring of implantable cardiac prostheses
@@ -1096,10 +1061,9 @@ companies:
     by using cutting-edge artificial intelligence.
   in_network: true
   is_api_provider: false
-  suggested_slug: implicity
   stub_created: true
   slug: implicity
-  matched_by: stub
+  matched_by: name-slug
 - name: Inato
   url: http://www.inato.com/
   description: Matches the right sites to the right clinical research studies, globally
@@ -1136,13 +1100,11 @@ companies:
     friends can easily play together. It is simpler than organizing a discordant group but more interactive
     than just streaming. Jam.gg was selected by TechCrunch in their top 12 favorite startups of the YC20
     batch.
-  in_network: true
+  in_network: false
   is_api_provider: false
   suggested_slug: jam-gg
   x-suggested-slug: jam-gg
   stub_created: true
-  slug: jam-gg
-  matched_by: stub
 - name: Jimmy
   url: https://www.jimmy-energy.eu/
   description: Jimmy massively decarbonizes industrial process heat based on nuclear fission.
@@ -1162,10 +1124,9 @@ companies:
     achieved major design, licensing, and industrial milestones.'
   in_network: true
   is_api_provider: false
-  suggested_slug: jimmy
   stub_created: true
   slug: jimmy
-  matched_by: stub
+  matched_by: name-slug
 - name: Joy (ex-Privateaser)
   url: https://www.joy.io/
   description: An online booking platform for events
@@ -1650,7 +1611,6 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: naftiko
-  x-no-stub: kin has stopped all naftiko work
 - name: Norbert Health
   url: https://www.norberthealth.com/
   description: Building the future of ambient predictive medicine

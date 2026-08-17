@@ -2,89 +2,12 @@ generated: '2026-08-17'
 method: derived
 source_vc: serena
 leads:
-- name: Accenta
-  url: https://www.accenta.ai/
-  suggested_slug: accenta
-  sector: ai-data
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/accenta/
-  stub_created: true
-- name: Acheel
-  url: https://www.acheel.com/
-  suggested_slug: acheel
-  sector: fintech-insurtech
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/acheel/
-  stub_created: true
-- name: Acinq
-  url: https://acinq.co/
-  suggested_slug: acinq
-  sector: blockchain
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/acinq/
-  stub_created: true
-- name: Allo-Media
-  url: https://www.allo-media.net/
-  suggested_slug: allo-media
-  sector: ai-data
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/allomedia/
-  stub_created: true
-- name: AramisAuto
-  url: https://www.aramisauto.com/
-  suggested_slug: aramisauto
-  sector: consumer
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/aramisauto/
-  stub_created: true
-- name: Arlettie
-  url: https://www.arlettie.com/
-  suggested_slug: arlettie
-  sector: consumer
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/arlettie/
-  stub_created: true
-- name: Bitstack
-  url: https://www.bitstack-app.com/
-  suggested_slug: bitstack
-  sector: blockchain
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/bitstack/
-  stub_created: true
-- name: Bonitasoft
-  url: https://www.bonitasoft.com/
-  suggested_slug: bonitasoft
-  sector: saas
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/bonitasoft/
-  stub_created: true
 - name: Boxy (ex-Storelift)
   url: https://www.getboxy.co/
   suggested_slug: getboxy
   sector: consumer
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/boxy/
-  stub_created: true
-- name: CarbonFarm
-  url: https://www.carbonfarm.tech
-  suggested_slug: carbonfarm
-  sector: climate-tech
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/carbonfarm/
-  stub_created: true
-- name: Cheerz
-  url: http://www.cheerz.com/
-  suggested_slug: cheerz
-  sector: consumer
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/cheerz/
-  stub_created: true
-- name: Clevergy
-  url: https://clever.gy/fr/
-  suggested_slug: clevergy
-  sector: climate-tech
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/clevergy/
   stub_created: true
 - name: Cloud Ex Machina
   url: https://www.cloudexmachina.io/
@@ -93,69 +16,6 @@ leads:
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/cloud-ex-machina/
   stub_created: true
-- name: Coachclub
-  url: http://www.coachclub.com/hp/
-  suggested_slug: coachclub
-  sector: consumer
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/coachclub/
-  stub_created: true
-- name: Cometh
-  url: https://www.cometh.io/
-  suggested_slug: cometh
-  sector: blockchain
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/cometh/
-  stub_created: true
-- name: Coorpacademy
-  url: https://www.coorpacademy.com/
-  suggested_slug: coorpacademy
-  sector: saas
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/coorpacademy/
-  stub_created: true
-- name: CybelAngel
-  url: https://www.cybelangel.com/
-  suggested_slug: cybelangel
-  sector: ai-data
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/cybelangel/
-  stub_created: true
-- name: Darewise
-  url: https://www.darewise.com/
-  suggested_slug: darewise
-  sector: blockchain
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/darewise/
-  stub_created: true
-- name: DESKi
-  url: http://www.heartfocus.ai
-  suggested_slug: deski
-  sector: healthtech
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/deski/
-  stub_created: true
-- name: Dotfile
-  url: https://www.dotfile.com/
-  suggested_slug: dotfile
-  sector: saas
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/dotfile/
-  stub_created: true
-- name: Edgee
-  url: https://www.edgee.cloud/
-  suggested_slug: edgee
-  sector: ai-data
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/edgee/
-  stub_created: true
-- name: Educ-up
-  url: https://educ-up.fr/
-  suggested_slug: educ-up
-  sector: edtech
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/educ-up/
-  stub_created: true
 - name: Electra
   url: https://www.go-electra.com/
   suggested_slug: go-electra
@@ -163,89 +23,12 @@ leads:
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/electra/
   stub_created: true
-- name: Elium
-  url: https://www.elium.com/
-  suggested_slug: elium
-  sector: saas
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/elium/
-  stub_created: true
-- name: Finalcad
-  url: http://www.finalcad.com/
-  suggested_slug: finalcad
-  sector: saas
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/finalcad/
-  stub_created: true
-- name: Fipto
-  url: https://fipto.com
-  suggested_slug: fipto
-  sector: blockchain
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/fitpo/
-  stub_created: true
-- name: Goodvest
-  url: https://www.goodvest.fr/
-  suggested_slug: goodvest
-  sector: climate-tech
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/goodvest/
-  stub_created: true
-- name: Habiteo
-  url: https://www.habiteo.com/
-  suggested_slug: habiteo
-  sector: saas
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/habiteo/
-  stub_created: true
-- name: Helios
-  url: https://www.helios.do/
-  suggested_slug: helios
-  sector: climate-tech
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/helios/
-  stub_created: true
-- name: Heuritech
-  url: http://heuritech.com/
-  suggested_slug: heuritech
-  sector: ai-data
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/heuritech/
-  stub_created: true
-- name: iBanFirst
-  url: https://www.ibanfirst.com/
-  suggested_slug: ibanfirst
-  sector: fintech-insurtech
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/ibanfirst/
-  stub_created: true
-- name: iContainers
-  url: https://www.icontainers.com/
-  suggested_slug: icontainers
-  sector: marketplace
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/icontainers/
-  stub_created: true
-- name: Implicity
-  url: https://www.implicity.com/
-  suggested_slug: implicity
-  sector: healthtech
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/implicity/
-  stub_created: true
 - name: Jam.gg
   url: https://jam.gg/fr
   suggested_slug: jam-gg
   sector: gaming
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/piepacker/
-  stub_created: true
-- name: Jimmy
-  url: https://www.jimmy-energy.eu/
-  suggested_slug: jimmy
-  sector: climate-tech
-  source_vc: serena
-  source: https://www.serena.vc/portfolio-profile/jimmy/
   stub_created: true
 - name: Joy (ex-Privateaser)
   url: https://www.joy.io/
@@ -373,7 +156,6 @@ leads:
   source_vc: serena
   source: https://www.serena.vc/portfolio-profile/naftiko/
   stub_created: false
-  no_stub: kin has stopped all naftiko work
 - name: Norbert Health
   url: https://www.norberthealth.com/
   suggested_slug: norbert-health
