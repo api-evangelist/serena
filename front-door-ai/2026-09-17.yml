@@ -1,0 +1,29 @@
+# Front Door AI Index — serena — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: serena
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.serena.vc
+  final_host: www.serena.vc
+  ownership: own
+  owner: serena
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 15
+  host_score: 15
+  density: 3.33
+  words: 4500
+  tiers:
+    agentic: 0
+    core: 14
+    model: 1
+  ambiguous: 18
+  top_terms:
+    AI: 14
+    smart: 12
+    intelligence: 5
+    OpenAI: 1
+    agent: 1
