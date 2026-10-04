@@ -57,7 +57,7 @@ tags:
   - Data
   - Software-as-a-Service
   - Climate Tech
-  - Open-Source
+  - Open Source
   - Fintech
   - Infrastructure
   - Impact
@@ -81,6 +81,7 @@ tags_raw:
   - Europe
   - France
   - Paris
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/serena/refs/heads/main/apis.yml
 created: '2026-08-17'
