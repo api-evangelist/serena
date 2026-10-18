@@ -7,10 +7,10 @@ description: Every company published on Serena's public portfolio page, harveste
   and each company profile page, annotated with its match against the API Evangelist network.
 summary:
   portfolio_total: 113
-  in_network: 113
-  api_providers: 37
-  missing: 0
-  stubs_created: 0
+  in_network: 108
+  api_providers: 34
+  missing: 5
+  stubs_created: 81
 companies:
 - name: 8Sec
   url: https://www.8sec.games/
@@ -119,7 +119,7 @@ companies:
     Health, Travel'
   slug: alkemics
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Allo-Media
   url: https://www.allo-media.net/
@@ -276,11 +276,11 @@ companies:
     applications using best-of-breed DevOps methodologies and tools. With an ecosystem of more than 150,000
     members and customers in 75+ countries, Bonitasoft provides the most widely used open-source and low-code
     platform for business process automation.
-  in_network: true
-  is_api_provider: true
+  in_network: false
+  is_api_provider: false
   stub_created: true
-  slug: bonitasoft
-  matched_by: name-slug
+  x-name-collision: bonitasoft
+  suggested_slug: bonitasoft-com
 - name: Boxy (ex-Storelift)
   url: https://www.getboxy.co/
   description: Boxy's mission is to deliver uncompromising convenience through every experience.
@@ -511,11 +511,11 @@ companies:
     brings together the best talent from all creative industries, from AAA and indie games to e-commerce
     and film, to create games that are about the richness of existence, the thrill of meeting new players,
     and the fulfillment of making new connections.
-  in_network: true
+  in_network: false
   is_api_provider: false
   stub_created: true
-  slug: darewise
-  matched_by: name-slug
+  x-name-collision: darewise
+  suggested_slug: darewise-com
 - name: Dataiku
   url: http://www.dataiku.com/
   description: Leader in Enterprise AI, Dataiku reached unicorn status in 2019, four years after our investment
@@ -919,7 +919,7 @@ companies:
     Within French Proptech, the Habiteo team works hand-in-hand with the major players in real estate
     and public administration, to jointly invent the “Smart City” of tomorrow.
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   stub_created: true
   slug: habiteo
   matched_by: domain
@@ -966,7 +966,7 @@ companies:
     offer and fulfill its ambition to become the global data intelligence provider for decision makers
     in the luxury, fashi'
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   stub_created: true
   slug: heuritech
   matched_by: domain
@@ -1376,11 +1376,10 @@ companies:
     users can easily select a restaurant according to preference criteria (such as the localization, type
     of cuisine, restaurant type, and average price), consult user reviews, check real-time availability,
     and in
-  in_network: true
-  is_api_provider: true
+  in_network: false
+  is_api_provider: false
   stub_created: true
-  slug: lafourchette
-  matched_by: name-slug
+  suggested_slug: lafourchette
 - name: Launchmetrics
   url: https://launchmetrics.com/
   description: Leading brand performance cloud for fashion, luxury & beauty
@@ -1531,11 +1530,11 @@ companies:
     personalized, and holistic care. May puts a healthcare team in (future) parents' pocket, answering
     any questions by chat 7/7, and offers exclusive content at each step from pregnancy to school, for
     an enlightened and relaxed parenting journey.
-  in_network: true
+  in_network: false
   is_api_provider: false
   stub_created: true
-  slug: may
-  matched_by: name-slug
+  x-name-collision: may
+  suggested_slug: may-sante-com
 - name: Melty
   url: http://www.melty.fr/
   description: The media group for Generation Y
@@ -2467,11 +2466,11 @@ companies:
     data networks, Waiv delivers precise, accurate, and fast analyses that support treatment decisions.
     Waiv collaborates with global pharmaceutical companies, research institutions, diagnostic organizations
     and healthcare systems to bring scalable precision medicine to patients worldwide
-  in_network: true
+  in_network: false
   is_api_provider: false
   stub_created: true
-  slug: waiv
-  matched_by: domain
+  x-name-collision: waiv
+  suggested_slug: wearewaiv-com
 - name: Wazo
   url: https://wazo.io/
   description: Unified communication solutions for businesses and telecom service providers

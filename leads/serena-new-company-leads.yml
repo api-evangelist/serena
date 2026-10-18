@@ -1,4 +1,39 @@
-generated: '2026-08-17'
+generated: '2026-10-18'
 method: derived
 source_vc: serena
-leads: []
+leads:
+- name: Bonitasoft
+  url: https://www.bonitasoft.com/
+  suggested_slug: bonitasoft-com
+  sector: saas
+  source_vc: serena
+  source: https://www.serena.vc/portfolio-profile/bonitasoft/
+  stub_created: false
+- name: Darewise
+  url: https://www.darewise.com/
+  suggested_slug: darewise-com
+  sector: blockchain
+  source_vc: serena
+  source: https://www.serena.vc/portfolio-profile/darewise/
+  stub_created: false
+- name: LaFourchette
+  url: http://www.lafourchette.com/
+  suggested_slug: lafourchette
+  sector: consumer
+  source_vc: serena
+  source: https://www.serena.vc/portfolio-profile/lafourchette/
+  stub_created: false
+- name: May
+  url: https://may-sante.com/
+  suggested_slug: may-sante-com
+  sector: edtech
+  source_vc: serena
+  source: https://www.serena.vc/portfolio-profile/may/
+  stub_created: false
+- name: Waiv
+  url: https://wearewaiv.com/
+  suggested_slug: wearewaiv-com
+  sector: ai-data
+  source_vc: serena
+  source: https://www.serena.vc/portfolio-profile/waiv/
+  stub_created: false
