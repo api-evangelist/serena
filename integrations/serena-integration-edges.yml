@@ -1,0 +1,40 @@
+edges:
+- partner_name: AMF GECO (register of authorised portfolio-management companies, France)
+  partner: null
+  partner_match: register
+  type: register
+  channel: regulator-register
+  relationship: standard-participant
+  direction: partner-built
+  evidence: https://geco.amf-france.org/
+  category: French market-authority authorisation (AMF, asset-management company)
+  contract_reference:
+    register: AMF GECO (register of authorised portfolio-management companies, France)
+    spec_file: null
+    standard: null
+    role: amf-authorised-asset-manager
+    registrations:
+    - registered_name: SERENA CAPITAL
+      role: amf-authorised-asset-manager
+      licences:
+      - Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive
+        AIFM
+      - Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM
+      register_country: FR
+      matched_domain: serena.vc
+      matched_by: domain
+      register_id: GP-08000016
+      lei: 969500JSET67V6FPST84
+      since: '2008-06-11'
+    signal_note: 'participation only: an AMF authorisation as a portfolio-management company; no API conformance
+      is published'
+    detected_by: sweep-france-amf-acpr-registers.py
+    detected: '2026-10-22'
+  detected_by: sweep-france-amf-acpr-registers.py
+  first_seen: '2026-10-22'
+generated: '2026-10-22'
+method: searched
+source:
+- https://geco.amf-france.org/
+checked:
+- https://geco.amf-france.org/
